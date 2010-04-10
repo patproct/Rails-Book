@@ -1,0 +1,1822 @@
+
+
+Processing Rails::InfoController#properties (for 149.166.139.51 at 2010-04-01 23:04:54) [GET]
+  [4;36;1mSQL (0.4ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Completed in 71ms (View: 11, DB: 0) | 200 OK [http://149.166.11.215/rails/info/properties]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-01 23:11:29) [GET]
+
+ActionController::RoutingError (No route matches "/posts.atom" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HelloController#index (for 149.166.139.51 at 2010-04-01 23:15:29) [GET]
+Rendering hello/index
+Completed in 487ms (View: 486 | 200 OK [http://149.166.11.215/hello]
+
+
+Processing HelloController#index (for 149.166.139.51 at 2010-04-01 23:16:34) [GET]
+Rendering hello/index
+Completed in 8ms (View: 6 | 200 OK [http://149.166.11.215/hello]
+
+
+Processing HelloController#index (for 149.166.11.215 at 2010-04-01 23:17:20) [GET]
+Rendering hello/index
+Completed in 6ms (View: 4 | 200 OK [http://149.166.11.215/hello]
+
+
+Processing HelloController#index (for 75.186.118.200 at 2010-04-01 23:18:22) [GET]
+Rendering hello/index
+Completed in 2ms (View: 1 | 200 OK [http://149.166.11.215/hello]
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-04-01 23:20:30) [GET]
+Rendering hello/index
+Completed in 3ms (View: 1 | 200 OK [http://localhost/hello]
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-04-01 23:20:45) [GET]
+Rendering hello/index
+Completed in 9ms (View: 8 | 200 OK [http://localhost/hello]
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-04-01 23:22:35) [GET]
+Rendering hello/index
+Completed in 7ms (View: 6 | 200 OK [http://localhost/hello]
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-04-01 23:25:15) [GET]
+Rendering hello/index
+Completed in 9ms (View: 6 | 200 OK [http://localhost/hello]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-01 23:41:33) [GET]
+
+ActionController::RoutingError (No route matches "/posts.atom" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-04-01 23:42:44) [GET]
+Rendering hello/index
+Completed in 30ms (View: 28 | 200 OK [http://localhost/hello]
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-04-01 23:53:10) [GET]
+Rendering hello/index
+Completed in 8ms (View: 6 | 200 OK [http://localhost/hello]
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-04-01 23:54:34) [GET]
+Rendering hello/index
+Completed in 3ms (View: 1 | 200 OK [http://localhost/hello]
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-04-01 23:55:23) [GET]
+Rendering hello/index
+Completed in 5ms (View: 1 | 200 OK [http://localhost/hello]
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-04-02 00:04:15) [GET]
+Rendering hello/index
+Completed in 10ms (View: 8 | 200 OK [http://localhost/hello]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-02 00:11:33) [GET]
+
+ActionController::RoutingError (No route matches "/posts.atom" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-04-02 00:12:09) [GET]
+Rendering hello/index
+Completed in 19ms (View: 18 | 200 OK [http://localhost/hello]
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-04-02 00:17:46) [GET]
+Rendering hello/index
+Completed in 9ms (View: 7 | 200 OK [http://localhost/hello]
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-04-02 00:18:05) [GET]
+Rendering hello/index
+Completed in 10ms (View: 6 | 200 OK [http://localhost/hello]
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-04-02 00:20:23) [GET]
+Rendering hello/index
+Completed in 8ms (View: 7 | 200 OK [http://localhost/hello]
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-04-02 00:21:23) [GET]
+Rendering hello/index
+Completed in 9ms (View: 7 | 200 OK [http://localhost/hello]
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-04-02 00:21:40) [GET]
+Rendering hello/index
+Completed in 29ms (View: 27 | 200 OK [http://localhost/hello]
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-04-02 00:21:49) [GET]
+Rendering hello/index
+Completed in 8ms (View: 7 | 200 OK [http://localhost/hello]
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-04-02 00:21:58) [GET]
+Rendering hello/index
+Completed in 30ms (View: 28 | 200 OK [http://localhost/hello]
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-04-02 00:22:06) [GET]
+Rendering hello/index
+Completed in 9ms (View: 7 | 200 OK [http://localhost/hello]
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-04-02 00:22:21) [GET]
+Rendering hello/index
+Completed in 11ms (View: 10 | 200 OK [http://localhost/hello]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-02 00:41:39) [GET]
+
+ActionController::RoutingError (No route matches "/posts.atom" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-04-02 00:57:00) [GET]
+Rendering hello/index
+Completed in 8ms (View: 6 | 200 OK [http://localhost/hello]
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-04-02 00:57:38) [GET]
+Rendering hello/index
+Completed in 9ms (View: 7 | 200 OK [http://localhost/hello]
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-04-02 01:00:00) [GET]
+Rendering hello/index
+Completed in 8ms (View: 7 | 200 OK [http://localhost/hello]
+
+
+Processing HelloController#index (for 149.166.139.51 at 2010-04-02 01:01:22) [GET]
+Rendering hello/index
+Completed in 2ms (View: 1 | 200 OK [http://149.166.11.215/hello]
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-04-02 01:02:39) [GET]
+Rendering hello/index
+Completed in 11ms (View: 10 | 200 OK [http://localhost/hello]
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-04-02 01:02:47) [GET]
+Rendering hello/index
+Completed in 84ms (View: 83 | 200 OK [http://localhost/hello]
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-04-02 01:05:17) [GET]
+Rendering hello/index
+Completed in 8ms (View: 6 | 200 OK [http://localhost/hello]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-02 01:05:17) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/hello.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-04-02 01:07:48) [GET]
+Rendering hello/index
+Completed in 3ms (View: 1 | 200 OK [http://localhost/hello]
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-04-02 01:08:52) [GET]
+Rendering hello/index
+Completed in 8ms (View: 7 | 200 OK [http://localhost/hello]
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-04-02 01:09:02) [GET]
+Rendering hello/index
+Completed in 4ms (View: 1 | 200 OK [http://localhost/hello]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-02 01:11:41) [GET]
+
+ActionController::RoutingError (No route matches "/posts.atom" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-04-02 01:14:16) [GET]
+Rendering hello/index
+Completed in 4ms (View: 2 | 200 OK [http://localhost/hello]
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-04-02 01:19:01) [GET]
+Rendering hello/index
+ERROR: compiling _run_erb_app47views47hello47index46html46erb RAISED compile error
+/Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:26: syntax error, unexpected kENSURE, expecting ')'
+/Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:28: syntax error, unexpected kEND, expecting ')'
+Function body:           def _run_erb_app47views47hello47index46html46erb(local_assigns)
+            old_output_buffer = output_buffer;;@output_buffer = '';  __in_erb_template=true ; @output_buffer.concat "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\"\n\t\"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">\n\t<head>\n\t\t<title>"
+
+
+
+; @output_buffer.concat((h @message ).to_s); @output_buffer.concat "</title>\n\t\t<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"/>\n\t\t<!-- <link rel=\"stylesheet\" href=\"/stylesheets/hello.css\" type=\"text/css\" media=\"screen\" title=\"no title\" charset=\"utf-8\"> -->\n\t\t"
+
+
+; @output_buffer.concat(( #stylesheet_link_tag 'hello' ).to_s); @output_buffer.concat(( stylesheet_link_tag :media => "all", :type => "text/css", :href => "/stylesheets/hello.css" ).to_s); @output_buffer.concat "\n\t</head>\n\t<body>\n\t\t<h1>"
+
+
+; @output_buffer.concat((h @message ).to_s); @output_buffer.concat " (Hello#index)</h1>\n\t\t<p>Find me in app/views/hello/index.html.erb</p>\n\t\t<ol>\n\t\t"
+
+
+;  for i in 1..@count ; @output_buffer.concat "\n\t\t\t<li>"
+; @output_buffer.concat(( i ).to_s); @output_buffer.concat ") "; @output_buffer.concat((h @bonus ).to_s); @output_buffer.concat "</li>\n\t\t"
+;  end ; @output_buffer.concat "\n\t\t</ol>\n\t\t<ol>\n\t\t\t"
+
+
+;  @count.times { ; @output_buffer.concat "\n\t\t\t\t<li>"
+; @output_buffer.concat((h @bonus ).to_s); @output_buffer.concat "</li>\n\t\t\t"
+;  } ; @output_buffer.concat "\n\t\t</ol>\n\t</body>\n</html>\n"
+
+
+
+; @output_buffer
+          ensure
+            self.output_buffer = old_output_buffer
+          end
+Backtrace: /Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:28:in `compile!'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/renderable.rb:61:in `compile'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/renderable.rb:28:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/template.rb:205:in `render_template'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/base.rb:265:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1250:in `render_for_file'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:945:in `render_without_benchmark'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:51:in `render'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:51:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1326:in `default_render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1332:in `perform_action_without_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:617:in `call_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/rescue.rb:160:in `perform_action_without_flash'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/flash.rb:146:in `perform_action'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:532:in `send'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:532:in `process_without_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:606:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:391:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:386:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/routing/route_set.rb:437:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:87:in `dispatch'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:121:in `_call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:130:in `build_middleware_stack'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/string_coercion.rb:25:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/string_coercion.rb:25:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/head.rb:9:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/methodoverride.rb:24:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/params_parser.rb:15:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/session/cookie_store.rb:93:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/failsafe.rb:26:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `synchronize'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:114:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/reloader.rb:34:in `run'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:108:in `call'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.5/lib/rails/rack/static.rb:31:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:46:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `each'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `call'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.5/lib/rails/rack/log_tailer.rb:17:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/content_length.rb:13:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/chunked.rb:15:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/handler/mongrel.rb:64:in `process'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/handler/mongrel.rb:34:in `run'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.5/lib/commands/server.rb:111
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+script/server:3
+
+ActionView::TemplateError (compile error
+/Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:26: syntax error, unexpected kENSURE, expecting ')'
+/Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:28: syntax error, unexpected kEND, expecting ')') on line #26 of app/views/hello/index.html.erb:
+23: 	</body>
+24: </html>
+
+    app/views/hello/index.html.erb:28:in `compile!'
+
+Rendered rescues/_trace (50.4ms)
+Rendered rescues/_request_and_response (45.2ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-04-02 01:19:39) [GET]
+Rendering hello/index
+ERROR: compiling _run_erb_app47views47hello47index46html46erb RAISED compile error
+/Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:27: syntax error, unexpected kENSURE, expecting ')'
+/Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:29: syntax error, unexpected kEND, expecting ')'
+Function body:           def _run_erb_app47views47hello47index46html46erb(local_assigns)
+            old_output_buffer = output_buffer;;@output_buffer = '';  __in_erb_template=true ; @output_buffer.concat "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\"\n\t\"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">\n\t<head>\n\t\t<title>"
+
+
+
+; @output_buffer.concat((h @message ).to_s); @output_buffer.concat "</title>\n\t\t<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"/>\n\t\t<!-- <link rel=\"stylesheet\" href=\"/stylesheets/hello.css\" type=\"text/css\" media=\"screen\" title=\"no title\" charset=\"utf-8\"> -->\n\t\t"
+
+
+; @output_buffer.concat(( #stylesheet_link_tag 'hello' ).to_s); @output_buffer.concat "\n\t\t"
+; @output_buffer.concat(( stylesheet_link_tag :media => "all", :type => "text/css", :href => "/stylesheets/hello.css" ).to_s); @output_buffer.concat "\n\t</head>\n\t<body>\n\t\t<h1>"
+
+
+; @output_buffer.concat((h @message ).to_s); @output_buffer.concat " (Hello#index)</h1>\n\t\t<p>Find me in app/views/hello/index.html.erb</p>\n\t\t<ol>\n\t\t"
+
+
+;  for i in 1..@count ; @output_buffer.concat "\n\t\t\t<li>"
+; @output_buffer.concat(( i ).to_s); @output_buffer.concat ") "; @output_buffer.concat((h @bonus ).to_s); @output_buffer.concat "</li>\n\t\t"
+;  end ; @output_buffer.concat "\n\t\t</ol>\n\t\t<ol>\n\t\t\t"
+
+
+;  @count.times { ; @output_buffer.concat "\n\t\t\t\t<li>"
+; @output_buffer.concat((h @bonus ).to_s); @output_buffer.concat "</li>\n\t\t\t"
+;  } ; @output_buffer.concat "\n\t\t</ol>\n\t</body>\n</html>\n"
+
+
+
+; @output_buffer
+          ensure
+            self.output_buffer = old_output_buffer
+          end
+Backtrace: /Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:29:in `compile!'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/renderable.rb:61:in `compile'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/renderable.rb:28:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/template.rb:205:in `render_template'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/base.rb:265:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1250:in `render_for_file'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:945:in `render_without_benchmark'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:51:in `render'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:51:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1326:in `default_render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1332:in `perform_action_without_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:617:in `call_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/rescue.rb:160:in `perform_action_without_flash'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/flash.rb:146:in `perform_action'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:532:in `send'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:532:in `process_without_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:606:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:391:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:386:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/routing/route_set.rb:437:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:87:in `dispatch'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:121:in `_call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:130:in `build_middleware_stack'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/string_coercion.rb:25:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/string_coercion.rb:25:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/head.rb:9:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/methodoverride.rb:24:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/params_parser.rb:15:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/session/cookie_store.rb:93:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/failsafe.rb:26:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `synchronize'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:114:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/reloader.rb:34:in `run'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:108:in `call'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.5/lib/rails/rack/static.rb:31:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:46:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `each'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `call'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.5/lib/rails/rack/log_tailer.rb:17:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/content_length.rb:13:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/chunked.rb:15:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/handler/mongrel.rb:64:in `process'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/handler/mongrel.rb:34:in `run'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.5/lib/commands/server.rb:111
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+script/server:3
+
+ActionView::TemplateError (compile error
+/Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:27: syntax error, unexpected kENSURE, expecting ')'
+/Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:29: syntax error, unexpected kEND, expecting ')') on line #27 of app/views/hello/index.html.erb:
+24: 	</body>
+25: </html>
+
+    app/views/hello/index.html.erb:29:in `compile!'
+
+Rendered rescues/_trace (138.5ms)
+Rendered rescues/_request_and_response (0.4ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-04-02 01:19:40) [GET]
+Rendering hello/index
+ERROR: compiling _run_erb_app47views47hello47index46html46erb RAISED compile error
+/Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:27: syntax error, unexpected kENSURE, expecting ')'
+/Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:29: syntax error, unexpected kEND, expecting ')'
+Function body:           def _run_erb_app47views47hello47index46html46erb(local_assigns)
+            old_output_buffer = output_buffer;;@output_buffer = '';  __in_erb_template=true ; @output_buffer.concat "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\"\n\t\"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">\n\t<head>\n\t\t<title>"
+
+
+
+; @output_buffer.concat((h @message ).to_s); @output_buffer.concat "</title>\n\t\t<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"/>\n\t\t<!-- <link rel=\"stylesheet\" href=\"/stylesheets/hello.css\" type=\"text/css\" media=\"screen\" title=\"no title\" charset=\"utf-8\"> -->\n\t\t"
+
+
+; @output_buffer.concat(( #stylesheet_link_tag 'hello' ).to_s); @output_buffer.concat "\n\t\t"
+; @output_buffer.concat(( stylesheet_link_tag :media => "all", :type => "text/css", :href => "/stylesheets/hello.css" ).to_s); @output_buffer.concat "\n\t</head>\n\t<body>\n\t\t<h1>"
+
+
+; @output_buffer.concat((h @message ).to_s); @output_buffer.concat " (Hello#index)</h1>\n\t\t<p>Find me in app/views/hello/index.html.erb</p>\n\t\t<ol>\n\t\t"
+
+
+;  for i in 1..@count ; @output_buffer.concat "\n\t\t\t<li>"
+; @output_buffer.concat(( i ).to_s); @output_buffer.concat ") "; @output_buffer.concat((h @bonus ).to_s); @output_buffer.concat "</li>\n\t\t"
+;  end ; @output_buffer.concat "\n\t\t</ol>\n\t\t<ol>\n\t\t\t"
+
+
+;  @count.times { ; @output_buffer.concat "\n\t\t\t\t<li>"
+; @output_buffer.concat((h @bonus ).to_s); @output_buffer.concat "</li>\n\t\t\t"
+;  } ; @output_buffer.concat "\n\t\t</ol>\n\t</body>\n</html>\n"
+
+
+
+; @output_buffer
+          ensure
+            self.output_buffer = old_output_buffer
+          end
+Backtrace: /Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:29:in `compile!'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/renderable.rb:61:in `compile'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/renderable.rb:28:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/template.rb:205:in `render_template'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/base.rb:265:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1250:in `render_for_file'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:945:in `render_without_benchmark'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:51:in `render'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:51:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1326:in `default_render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1332:in `perform_action_without_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:617:in `call_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/rescue.rb:160:in `perform_action_without_flash'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/flash.rb:146:in `perform_action'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:532:in `send'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:532:in `process_without_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:606:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:391:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:386:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/routing/route_set.rb:437:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:87:in `dispatch'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:121:in `_call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:130:in `build_middleware_stack'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/string_coercion.rb:25:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/string_coercion.rb:25:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/head.rb:9:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/methodoverride.rb:24:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/params_parser.rb:15:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/session/cookie_store.rb:93:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/failsafe.rb:26:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `synchronize'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:114:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/reloader.rb:34:in `run'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:108:in `call'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.5/lib/rails/rack/static.rb:31:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:46:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `each'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `call'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.5/lib/rails/rack/log_tailer.rb:17:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/content_length.rb:13:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/chunked.rb:15:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/handler/mongrel.rb:64:in `process'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/handler/mongrel.rb:34:in `run'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.5/lib/commands/server.rb:111
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+script/server:3
+
+ActionView::TemplateError (compile error
+/Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:27: syntax error, unexpected kENSURE, expecting ')'
+/Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:29: syntax error, unexpected kEND, expecting ')') on line #27 of app/views/hello/index.html.erb:
+24: 	</body>
+25: </html>
+
+    app/views/hello/index.html.erb:29:in `compile!'
+
+Rendered rescues/_trace (45.9ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-04-02 01:19:52) [GET]
+Rendering hello/index
+ERROR: compiling _run_erb_app47views47hello47index46html46erb RAISED compile error
+/Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:27: syntax error, unexpected kENSURE, expecting ')'
+/Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:29: syntax error, unexpected kEND, expecting ')'
+Function body:           def _run_erb_app47views47hello47index46html46erb(local_assigns)
+            old_output_buffer = output_buffer;;@output_buffer = '';  __in_erb_template=true ; @output_buffer.concat "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\"\n\t\"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">\n\t<head>\n\t\t<title>"
+
+
+
+; @output_buffer.concat((h @message ).to_s); @output_buffer.concat "</title>\n\t\t<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"/>\n\t\t<!-- <link rel=\"stylesheet\" href=\"/stylesheets/hello.css\" type=\"text/css\" media=\"screen\" title=\"no title\" charset=\"utf-8\"> -->\n\t\t# "
+
+
+; @output_buffer.concat(( #stylesheet_link_tag 'hello' ).to_s); @output_buffer.concat "\n\t\t"
+; @output_buffer.concat(( stylesheet_link_tag :media => "all", :type => "text/css", :href => "/stylesheets/hello.css" ).to_s); @output_buffer.concat "\n\t</head>\n\t<body>\n\t\t<h1>"
+
+
+; @output_buffer.concat((h @message ).to_s); @output_buffer.concat " (Hello#index)</h1>\n\t\t<p>Find me in app/views/hello/index.html.erb</p>\n\t\t<ol>\n\t\t"
+
+
+;  for i in 1..@count ; @output_buffer.concat "\n\t\t\t<li>"
+; @output_buffer.concat(( i ).to_s); @output_buffer.concat ") "; @output_buffer.concat((h @bonus ).to_s); @output_buffer.concat "</li>\n\t\t"
+;  end ; @output_buffer.concat "\n\t\t</ol>\n\t\t<ol>\n\t\t\t"
+
+
+;  @count.times { ; @output_buffer.concat "\n\t\t\t\t<li>"
+; @output_buffer.concat((h @bonus ).to_s); @output_buffer.concat "</li>\n\t\t\t"
+;  } ; @output_buffer.concat "\n\t\t</ol>\n\t</body>\n</html>\n"
+
+
+
+; @output_buffer
+          ensure
+            self.output_buffer = old_output_buffer
+          end
+Backtrace: /Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:29:in `compile!'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/renderable.rb:61:in `compile'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/renderable.rb:28:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/template.rb:205:in `render_template'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/base.rb:265:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1250:in `render_for_file'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:945:in `render_without_benchmark'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:51:in `render'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:51:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1326:in `default_render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1332:in `perform_action_without_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:617:in `call_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/rescue.rb:160:in `perform_action_without_flash'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/flash.rb:146:in `perform_action'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:532:in `send'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:532:in `process_without_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:606:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:391:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:386:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/routing/route_set.rb:437:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:87:in `dispatch'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:121:in `_call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:130:in `build_middleware_stack'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/string_coercion.rb:25:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/string_coercion.rb:25:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/head.rb:9:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/methodoverride.rb:24:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/params_parser.rb:15:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/session/cookie_store.rb:93:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/failsafe.rb:26:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `synchronize'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:114:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/reloader.rb:34:in `run'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:108:in `call'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.5/lib/rails/rack/static.rb:31:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:46:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `each'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `call'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.5/lib/rails/rack/log_tailer.rb:17:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/content_length.rb:13:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/chunked.rb:15:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/handler/mongrel.rb:64:in `process'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/handler/mongrel.rb:34:in `run'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.5/lib/commands/server.rb:111
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+script/server:3
+
+ActionView::TemplateError (compile error
+/Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:27: syntax error, unexpected kENSURE, expecting ')'
+/Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:29: syntax error, unexpected kEND, expecting ')') on line #27 of app/views/hello/index.html.erb:
+24: 	</body>
+25: </html>
+
+    app/views/hello/index.html.erb:29:in `compile!'
+
+Rendered rescues/_trace (48.0ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-04-02 01:20:03) [GET]
+Rendering hello/index
+Completed in 90ms (View: 88 | 200 OK [http://localhost/hello]
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-04-02 01:21:25) [GET]
+Rendering hello/index
+Completed in 4ms (View: 3 | 200 OK [http://localhost/hello]
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-04-02 01:22:59) [GET]
+Rendering hello/index
+Completed in 10ms (View: 8 | 200 OK [http://localhost/hello]
+
+
+Processing HelloController#index (for 149.166.139.51 at 2010-04-02 01:25:51) [GET]
+Rendering hello/index
+Completed in 3ms (View: 1 | 200 OK [http://149.166.11.215/hello]
+
+
+Processing HelloController#index (for 149.166.139.51 at 2010-04-02 01:26:42) [GET]
+Rendering hello/index
+Completed in 8ms (View: 6 | 200 OK [http://149.166.11.215/hello]
+
+
+Processing HelloController#index (for 149.166.139.51 at 2010-04-02 01:27:07) [GET]
+Rendering hello/index
+Completed in 8ms (View: 6 | 200 OK [http://149.166.11.215/hello]
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-04-02 01:27:36) [GET]
+Rendering hello/index
+Completed in 3ms (View: 1 | 200 OK [http://localhost/hello]
+
+
+Processing HelloController#index (for 149.166.11.215 at 2010-04-02 01:28:23) [GET]
+Rendering hello/index
+Completed in 3ms (View: 1 | 200 OK [http://149.166.11.215/hello]
+
+
+Processing HelloController#index (for 75.186.118.200 at 2010-04-02 01:30:33) [GET]
+Rendering hello/index
+Completed in 17ms (View: 15 | 200 OK [http://149.166.11.215/hello]
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-04-02 01:32:17) [GET]
+Rendering hello/index
+ERROR: compiling _run_erb_app47views47hello47index46html46erb RAISED compile error
+/Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:27: syntax error, unexpected kENSURE, expecting ')'
+/Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:29: syntax error, unexpected kEND, expecting ')'
+Function body:           def _run_erb_app47views47hello47index46html46erb(local_assigns)
+            old_output_buffer = output_buffer;;@output_buffer = '';  __in_erb_template=true ; @output_buffer.concat "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\"\n\t\"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">\n\t<head>\n\t\t<title>"
+
+
+
+; @output_buffer.concat((h @message ).to_s); @output_buffer.concat "</title>\n\t\t<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"/>\n\t\t<!-- <link rel=\"stylesheet\" href=\"/stylesheets/hello.css\" type=\"text/css\" media=\"screen\" title=\"no title\" charset=\"utf-8\"> -->\n\t\t"
+
+
+; @output_buffer.concat(( #stylesheet_link_tag 'hello' ).to_s); @output_buffer.concat "\n\t\t"
+; @output_buffer.concat(( stylesheet_link_tag :media => "all", :type => "text/css", :href => "/stylesheets/hello.css", :cache => true ).to_s); @output_buffer.concat "\n\t</head>\n\t<body>\n\t\t<h1>"
+
+
+; @output_buffer.concat((h @message ).to_s); @output_buffer.concat " (Hello#index)</h1>\n\t\t<p>Find me in app/views/hello/index.html.erb</p>\n\t\t<ol>\n\t\t\t"
+
+
+;  for i in 1..@count ; @output_buffer.concat "\n\t\t\t\t<li>"
+; @output_buffer.concat((h @bonus ).to_s); @output_buffer.concat "</li>\n\t\t\t"
+;  end ; @output_buffer.concat "\n\t\t</ol>\n\t\t<ol>\n\t\t\t"
+
+
+;  @count.times { ; @output_buffer.concat "\n\t\t\t\t<li>"
+; @output_buffer.concat((h @bonus ).to_s); @output_buffer.concat "</li>\n\t\t\t"
+;  } ; @output_buffer.concat "\n\t\t</ol>\n\t</body>\n</html>\n"
+
+
+
+; @output_buffer
+          ensure
+            self.output_buffer = old_output_buffer
+          end
+Backtrace: /Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:29:in `compile!'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/renderable.rb:61:in `compile'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/renderable.rb:28:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/template.rb:205:in `render_template'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/base.rb:265:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1250:in `render_for_file'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:945:in `render_without_benchmark'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:51:in `render'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:51:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1326:in `default_render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1332:in `perform_action_without_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:617:in `call_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/rescue.rb:160:in `perform_action_without_flash'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/flash.rb:146:in `perform_action'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:532:in `send'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:532:in `process_without_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:606:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:391:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:386:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/routing/route_set.rb:437:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:87:in `dispatch'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:121:in `_call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:130:in `build_middleware_stack'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/string_coercion.rb:25:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/string_coercion.rb:25:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/head.rb:9:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/methodoverride.rb:24:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/params_parser.rb:15:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/session/cookie_store.rb:93:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/failsafe.rb:26:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `synchronize'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:114:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/reloader.rb:34:in `run'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:108:in `call'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.5/lib/rails/rack/static.rb:31:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:46:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `each'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `call'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.5/lib/rails/rack/log_tailer.rb:17:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/content_length.rb:13:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/chunked.rb:15:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/handler/mongrel.rb:64:in `process'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/handler/mongrel.rb:34:in `run'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.5/lib/commands/server.rb:111
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+script/server:3
+
+ActionView::TemplateError (compile error
+/Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:27: syntax error, unexpected kENSURE, expecting ')'
+/Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:29: syntax error, unexpected kEND, expecting ')') on line #27 of app/views/hello/index.html.erb:
+24: 	</body>
+25: </html>
+
+    app/views/hello/index.html.erb:29:in `compile!'
+
+Rendered rescues/_trace (46.7ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-04-02 01:34:14) [GET]
+Rendering hello/index
+ERROR: compiling _run_erb_app47views47hello47index46html46erb RAISED compile error
+/Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:9: syntax error, unexpected ':', expecting ')'
+... stylesheet_link_tag 'hello' :media => "all", :type => "text...
+                              ^
+/Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:9: syntax error, unexpected ',', expecting ')'
+...k_tag 'hello' :media => "all", :type => "text/css", :href =>...
+                              ^
+/Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:9: syntax error, unexpected ',', expecting ')'
+...=> "all", :type => "text/css", :href => "/stylesheets/hello....
+                              ^
+/Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:9: syntax error, unexpected ',', expecting ')'
+...f => "/stylesheets/hello.css", :cache => true ).to_s); @outp...
+                              ^
+/Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:27: syntax error, unexpected kENSURE, expecting ')'
+/Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:29: syntax error, unexpected kEND, expecting ')'
+Function body:           def _run_erb_app47views47hello47index46html46erb(local_assigns)
+            old_output_buffer = output_buffer;;@output_buffer = '';  __in_erb_template=true ; @output_buffer.concat "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\"\n\t\"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">\n\t<head>\n\t\t<title>"
+
+
+
+; @output_buffer.concat((h @message ).to_s); @output_buffer.concat "</title>\n\t\t<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"/>\n\t\t<!-- <link rel=\"stylesheet\" href=\"/stylesheets/hello.css\" type=\"text/css\" media=\"screen\" title=\"no title\" charset=\"utf-8\"> -->\n\t\t"
+
+
+; @output_buffer.concat(( #stylesheet_link_tag 'hello' ).to_s); @output_buffer.concat "\n\t\t"
+; @output_buffer.concat(( stylesheet_link_tag 'hello' :media => "all", :type => "text/css", :href => "/stylesheets/hello.css", :cache => true ).to_s); @output_buffer.concat "\n\t</head>\n\t<body>\n\t\t<h1>"
+
+
+; @output_buffer.concat((h @message ).to_s); @output_buffer.concat " (Hello#index)</h1>\n\t\t<p>Find me in app/views/hello/index.html.erb</p>\n\t\t<ol>\n\t\t\t"
+
+
+;  for i in 1..@count ; @output_buffer.concat "\n\t\t\t\t<li>"
+; @output_buffer.concat((h @bonus ).to_s); @output_buffer.concat "</li>\n\t\t\t"
+;  end ; @output_buffer.concat "\n\t\t</ol>\n\t\t<ol>\n\t\t\t"
+
+
+;  @count.times { ; @output_buffer.concat "\n\t\t\t\t<li>"
+; @output_buffer.concat((h @bonus ).to_s); @output_buffer.concat "</li>\n\t\t\t"
+;  } ; @output_buffer.concat "\n\t\t</ol>\n\t</body>\n</html>\n"
+
+
+
+; @output_buffer
+          ensure
+            self.output_buffer = old_output_buffer
+          end
+Backtrace: /Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:29:in `compile!'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/renderable.rb:61:in `compile'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/renderable.rb:28:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/template.rb:205:in `render_template'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/base.rb:265:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1250:in `render_for_file'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:945:in `render_without_benchmark'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:51:in `render'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:51:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1326:in `default_render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1332:in `perform_action_without_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:617:in `call_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/rescue.rb:160:in `perform_action_without_flash'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/flash.rb:146:in `perform_action'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:532:in `send'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:532:in `process_without_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:606:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:391:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:386:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/routing/route_set.rb:437:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:87:in `dispatch'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:121:in `_call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:130:in `build_middleware_stack'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/string_coercion.rb:25:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/string_coercion.rb:25:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/head.rb:9:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/methodoverride.rb:24:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/params_parser.rb:15:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/session/cookie_store.rb:93:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/failsafe.rb:26:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `synchronize'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:114:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/reloader.rb:34:in `run'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:108:in `call'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.5/lib/rails/rack/static.rb:31:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:46:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `each'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `call'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.5/lib/rails/rack/log_tailer.rb:17:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/content_length.rb:13:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/chunked.rb:15:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/handler/mongrel.rb:64:in `process'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/handler/mongrel.rb:34:in `run'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.5/lib/commands/server.rb:111
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+script/server:3
+
+ActionView::TemplateError (compile error
+/Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:9: syntax error, unexpected ':', expecting ')'
+... stylesheet_link_tag 'hello' :media => "all", :type => "text...
+                              ^
+/Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:9: syntax error, unexpected ',', expecting ')'
+...k_tag 'hello' :media => "all", :type => "text/css", :href =>...
+                              ^
+/Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:9: syntax error, unexpected ',', expecting ')'
+...=> "all", :type => "text/css", :href => "/stylesheets/hello....
+                              ^
+/Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:9: syntax error, unexpected ',', expecting ')'
+...f => "/stylesheets/hello.css", :cache => true ).to_s); @outp...
+                              ^
+/Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:27: syntax error, unexpected kENSURE, expecting ')'
+/Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:29: syntax error, unexpected kEND, expecting ')') on line #9 of app/views/hello/index.html.erb:
+6: 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+7: 		<!-- <link rel="stylesheet" href="/stylesheets/hello.css" type="text/css" media="screen" title="no title" charset="utf-8"> -->
+8: 		<%= #stylesheet_link_tag 'hello' %>
+9: 		<%= stylesheet_link_tag 'hello' :media => "all", :type => "text/css", :href => "/stylesheets/hello.css", :cache => true %>
+10: 	</head>
+11: 	<body>
+12: 		<h1><%=h @message %> (Hello#index)</h1>
+
+    app/views/hello/index.html.erb:29:in `compile!'
+
+Rendered rescues/_trace (123.1ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-04-02 01:34:39) [GET]
+Rendering hello/index
+ERROR: compiling _run_erb_app47views47hello47index46html46erb RAISED compile error
+/Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:27: syntax error, unexpected kENSURE, expecting ')'
+/Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:29: syntax error, unexpected kEND, expecting ')'
+Function body:           def _run_erb_app47views47hello47index46html46erb(local_assigns)
+            old_output_buffer = output_buffer;;@output_buffer = '';  __in_erb_template=true ; @output_buffer.concat "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\"\n\t\"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">\n\t<head>\n\t\t<title>"
+
+
+
+; @output_buffer.concat((h @message ).to_s); @output_buffer.concat "</title>\n\t\t<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"/>\n\t\t<!-- <link rel=\"stylesheet\" href=\"/stylesheets/hello.css\" type=\"text/css\" media=\"screen\" title=\"no title\" charset=\"utf-8\"> -->\n\t\t"
+
+
+; @output_buffer.concat(( #stylesheet_link_tag 'hello' ).to_s); @output_buffer.concat "\n\t\t"
+; @output_buffer.concat(( stylesheet_link_tag 'hello', :media => "all", :type => "text/css", :href => "/stylesheets/hello.css", :cache => true ).to_s); @output_buffer.concat "\n\t</head>\n\t<body>\n\t\t<h1>"
+
+
+; @output_buffer.concat((h @message ).to_s); @output_buffer.concat " (Hello#index)</h1>\n\t\t<p>Find me in app/views/hello/index.html.erb</p>\n\t\t<ol>\n\t\t\t"
+
+
+;  for i in 1..@count ; @output_buffer.concat "\n\t\t\t\t<li>"
+; @output_buffer.concat((h @bonus ).to_s); @output_buffer.concat "</li>\n\t\t\t"
+;  end ; @output_buffer.concat "\n\t\t</ol>\n\t\t<ol>\n\t\t\t"
+
+
+;  @count.times { ; @output_buffer.concat "\n\t\t\t\t<li>"
+; @output_buffer.concat((h @bonus ).to_s); @output_buffer.concat "</li>\n\t\t\t"
+;  } ; @output_buffer.concat "\n\t\t</ol>\n\t</body>\n</html>\n"
+
+
+
+; @output_buffer
+          ensure
+            self.output_buffer = old_output_buffer
+          end
+Backtrace: /Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:29:in `compile!'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/renderable.rb:61:in `compile'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/renderable.rb:28:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/template.rb:205:in `render_template'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/base.rb:265:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1250:in `render_for_file'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:945:in `render_without_benchmark'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:51:in `render'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:51:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1326:in `default_render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1332:in `perform_action_without_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:617:in `call_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/rescue.rb:160:in `perform_action_without_flash'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/flash.rb:146:in `perform_action'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:532:in `send'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:532:in `process_without_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:606:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:391:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:386:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/routing/route_set.rb:437:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:87:in `dispatch'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:121:in `_call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:130:in `build_middleware_stack'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/string_coercion.rb:25:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/string_coercion.rb:25:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/head.rb:9:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/methodoverride.rb:24:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/params_parser.rb:15:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/session/cookie_store.rb:93:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/failsafe.rb:26:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `synchronize'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:114:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/reloader.rb:34:in `run'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:108:in `call'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.5/lib/rails/rack/static.rb:31:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:46:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `each'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `call'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.5/lib/rails/rack/log_tailer.rb:17:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/content_length.rb:13:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/chunked.rb:15:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/handler/mongrel.rb:64:in `process'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/handler/mongrel.rb:34:in `run'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.5/lib/commands/server.rb:111
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+script/server:3
+
+ActionView::TemplateError (compile error
+/Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:27: syntax error, unexpected kENSURE, expecting ')'
+/Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:29: syntax error, unexpected kEND, expecting ')') on line #27 of app/views/hello/index.html.erb:
+24: 	</body>
+25: </html>
+
+    app/views/hello/index.html.erb:29:in `compile!'
+
+Rendered rescues/_trace (47.2ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-04-02 01:34:50) [GET]
+Rendering hello/index
+ERROR: compiling _run_erb_app47views47hello47index46html46erb RAISED compile error
+/Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:27: syntax error, unexpected kENSURE, expecting ')'
+/Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:29: syntax error, unexpected kEND, expecting ')'
+Function body:           def _run_erb_app47views47hello47index46html46erb(local_assigns)
+            old_output_buffer = output_buffer;;@output_buffer = '';  __in_erb_template=true ; @output_buffer.concat "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\"\n\t\"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">\n\t<head>\n\t\t<title>"
+
+
+
+; @output_buffer.concat((h @message ).to_s); @output_buffer.concat "</title>\n\t\t<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"/>\n\t\t<!-- <link rel=\"stylesheet\" href=\"/stylesheets/hello.css\" type=\"text/css\" media=\"screen\" title=\"no title\" charset=\"utf-8\"> -->\n\t\t"
+
+
+; @output_buffer.concat(( #stylesheet_link_tag 'hello' ).to_s); @output_buffer.concat "\n\t\t"
+; @output_buffer.concat(( stylesheet_link_tag 'hello', :media => "all", :type => "text/css", :cache => true ).to_s); @output_buffer.concat "\n\t</head>\n\t<body>\n\t\t<h1>"
+
+
+; @output_buffer.concat((h @message ).to_s); @output_buffer.concat " (Hello#index)</h1>\n\t\t<p>Find me in app/views/hello/index.html.erb</p>\n\t\t<ol>\n\t\t\t"
+
+
+;  for i in 1..@count ; @output_buffer.concat "\n\t\t\t\t<li>"
+; @output_buffer.concat((h @bonus ).to_s); @output_buffer.concat "</li>\n\t\t\t"
+;  end ; @output_buffer.concat "\n\t\t</ol>\n\t\t<ol>\n\t\t\t"
+
+
+;  @count.times { ; @output_buffer.concat "\n\t\t\t\t<li>"
+; @output_buffer.concat((h @bonus ).to_s); @output_buffer.concat "</li>\n\t\t\t"
+;  } ; @output_buffer.concat "\n\t\t</ol>\n\t</body>\n</html>\n"
+
+
+
+; @output_buffer
+          ensure
+            self.output_buffer = old_output_buffer
+          end
+Backtrace: /Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:29:in `compile!'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/renderable.rb:61:in `compile'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/renderable.rb:28:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/template.rb:205:in `render_template'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/base.rb:265:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1250:in `render_for_file'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:945:in `render_without_benchmark'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:51:in `render'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:51:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1326:in `default_render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1332:in `perform_action_without_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:617:in `call_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/rescue.rb:160:in `perform_action_without_flash'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/flash.rb:146:in `perform_action'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:532:in `send'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:532:in `process_without_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:606:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:391:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:386:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/routing/route_set.rb:437:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:87:in `dispatch'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:121:in `_call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:130:in `build_middleware_stack'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/string_coercion.rb:25:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/string_coercion.rb:25:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/head.rb:9:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/methodoverride.rb:24:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/params_parser.rb:15:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/session/cookie_store.rb:93:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/failsafe.rb:26:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `synchronize'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:114:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/reloader.rb:34:in `run'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:108:in `call'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.5/lib/rails/rack/static.rb:31:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:46:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `each'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `call'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.5/lib/rails/rack/log_tailer.rb:17:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/content_length.rb:13:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/chunked.rb:15:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/handler/mongrel.rb:64:in `process'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/handler/mongrel.rb:34:in `run'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.5/lib/commands/server.rb:111
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+script/server:3
+
+ActionView::TemplateError (compile error
+/Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:27: syntax error, unexpected kENSURE, expecting ')'
+/Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:29: syntax error, unexpected kEND, expecting ')') on line #27 of app/views/hello/index.html.erb:
+24: 	</body>
+25: </html>
+
+    app/views/hello/index.html.erb:29:in `compile!'
+
+Rendered rescues/_trace (124.2ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-04-02 01:34:53) [GET]
+Rendering hello/index
+ERROR: compiling _run_erb_app47views47hello47index46html46erb RAISED compile error
+/Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:27: syntax error, unexpected kENSURE, expecting ')'
+/Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:29: syntax error, unexpected kEND, expecting ')'
+Function body:           def _run_erb_app47views47hello47index46html46erb(local_assigns)
+            old_output_buffer = output_buffer;;@output_buffer = '';  __in_erb_template=true ; @output_buffer.concat "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\"\n\t\"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">\n\t<head>\n\t\t<title>"
+
+
+
+; @output_buffer.concat((h @message ).to_s); @output_buffer.concat "</title>\n\t\t<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"/>\n\t\t<!-- <link rel=\"stylesheet\" href=\"/stylesheets/hello.css\" type=\"text/css\" media=\"screen\" title=\"no title\" charset=\"utf-8\"> -->\n\t\t"
+
+
+; @output_buffer.concat(( #stylesheet_link_tag 'hello' ).to_s); @output_buffer.concat "\n\t\t"
+; @output_buffer.concat(( stylesheet_link_tag 'hello', :media => "all", :type => "text/css", :cache => true ).to_s); @output_buffer.concat "\n\t</head>\n\t<body>\n\t\t<h1>"
+
+
+; @output_buffer.concat((h @message ).to_s); @output_buffer.concat " (Hello#index)</h1>\n\t\t<p>Find me in app/views/hello/index.html.erb</p>\n\t\t<ol>\n\t\t\t"
+
+
+;  for i in 1..@count ; @output_buffer.concat "\n\t\t\t\t<li>"
+; @output_buffer.concat((h @bonus ).to_s); @output_buffer.concat "</li>\n\t\t\t"
+;  end ; @output_buffer.concat "\n\t\t</ol>\n\t\t<ol>\n\t\t\t"
+
+
+;  @count.times { ; @output_buffer.concat "\n\t\t\t\t<li>"
+; @output_buffer.concat((h @bonus ).to_s); @output_buffer.concat "</li>\n\t\t\t"
+;  } ; @output_buffer.concat "\n\t\t</ol>\n\t</body>\n</html>\n"
+
+
+
+; @output_buffer
+          ensure
+            self.output_buffer = old_output_buffer
+          end
+Backtrace: /Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:29:in `compile!'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/renderable.rb:61:in `compile'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/renderable.rb:28:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/template.rb:205:in `render_template'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/base.rb:265:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1250:in `render_for_file'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:945:in `render_without_benchmark'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:51:in `render'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:51:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1326:in `default_render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1332:in `perform_action_without_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:617:in `call_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/rescue.rb:160:in `perform_action_without_flash'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/flash.rb:146:in `perform_action'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:532:in `send'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:532:in `process_without_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:606:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:391:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:386:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/routing/route_set.rb:437:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:87:in `dispatch'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:121:in `_call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:130:in `build_middleware_stack'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/string_coercion.rb:25:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/string_coercion.rb:25:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/head.rb:9:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/methodoverride.rb:24:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/params_parser.rb:15:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/session/cookie_store.rb:93:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/failsafe.rb:26:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `synchronize'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:114:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/reloader.rb:34:in `run'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:108:in `call'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.5/lib/rails/rack/static.rb:31:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:46:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `each'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `call'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.5/lib/rails/rack/log_tailer.rb:17:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/content_length.rb:13:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/chunked.rb:15:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/handler/mongrel.rb:64:in `process'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/handler/mongrel.rb:34:in `run'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.5/lib/commands/server.rb:111
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+script/server:3
+
+ActionView::TemplateError (compile error
+/Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:27: syntax error, unexpected kENSURE, expecting ')'
+/Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:29: syntax error, unexpected kEND, expecting ')') on line #27 of app/views/hello/index.html.erb:
+24: 	</body>
+25: </html>
+
+    app/views/hello/index.html.erb:29:in `compile!'
+
+Rendered rescues/_trace (45.7ms)
+Rendered rescues/_request_and_response (0.4ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-04-02 01:35:05) [GET]
+Rendering hello/index
+Completed in 10ms (View: 8 | 200 OK [http://localhost/hello]
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-04-02 01:35:53) [GET]
+Rendering hello/index
+Completed in 9ms (View: 7 | 200 OK [http://localhost/hello]
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-04-02 01:37:48) [GET]
+Rendering template within layouts/hello
+Rendering hello/index
+Completed in 140ms (View: 138 | 200 OK [http://localhost/hello]
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-04-02 01:39:04) [GET]
+Rendering template within layouts/hello
+Rendering hello/index
+Completed in 15ms (View: 14 | 200 OK [http://localhost/hello]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-02 01:41:41) [GET]
+
+ActionController::RoutingError (No route matches "/posts.atom" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HelloController#index (for 149.166.139.51 at 2010-04-02 01:45:17) [GET]
+Rendering template within layouts/hello
+Rendering hello/index
+Completed in 3ms (View: 1 | 200 OK [http://149.166.11.215/hello]
+
+
+Processing HelloController#index (for 149.166.139.51 at 2010-04-02 01:51:32) [GET]
+Rendering template within layouts/hello
+Rendering hello/index
+Completed in 3ms (View: 1 | 200 OK [http://149.166.11.215/hello]
+
+
+Processing HelloController#index (for 149.166.139.51 at 2010-04-02 01:52:04) [GET]
+Rendering template within layouts/hello
+Rendering hello/index
+Completed in 3ms (View: 1 | 200 OK [http://149.166.11.215/hello]
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-04-02 01:52:28) [GET]
+Rendering template within layouts/hello
+Rendering hello/index
+Completed in 5ms (View: 1 | 200 OK [http://localhost/hello]
+
+
+Processing HelloController#index (for 149.166.139.51 at 2010-04-02 01:56:26) [GET]
+Rendering template within layouts/hello
+Rendering hello/index
+Completed in 5ms (View: 4 | 200 OK [http://149.166.11.215/hello]
+
+
+Processing HelloController#index (for 149.166.139.51 at 2010-04-02 01:57:18) [GET]
+Rendering template within layouts/hello
+Rendering hello/index
+Completed in 3ms (View: 1 | 200 OK [http://149.166.11.215/hello]
+
+
+Processing HelloController#index (for 149.166.139.51 at 2010-04-02 01:58:19) [GET]
+Rendering template within layouts/application
+Rendering hello/index
+Completed in 10ms (View: 9 | 200 OK [http://149.166.11.215/hello]
+
+
+Processing HelloController#index (for 149.166.139.51 at 2010-04-02 01:58:21) [GET]
+Rendering template within layouts/application
+Rendering hello/index
+Completed in 3ms (View: 1 | 200 OK [http://149.166.11.215/hello]
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-04-02 01:58:46) [GET]
+Rendering template within layouts/application
+Rendering hello/index
+Completed in 4ms (View: 2 | 200 OK [http://localhost/hello]
+
+
+Processing HelloController#index (for 149.166.139.51 at 2010-04-02 01:58:59) [GET]
+Rendering template within layouts/application
+Rendering hello/index
+Completed in 8ms (View: 6 | 200 OK [http://149.166.11.215/hello]
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-04-02 01:59:58) [GET]
+Rendering template within layouts/application
+Rendering hello/index
+Completed in 4ms (View: 3 | 200 OK [http://localhost/hello]
+
+
+Processing ApplicationController#index (for 149.166.139.51 at 2010-04-02 02:02:17) [GET]
+
+SyntaxError (/Users/patrickproctor/Documents/code/hello/app/controllers/hello_controller.rb:21: syntax error, unexpected kEND, expecting $end):
+  
+
+Rendered rescues/_trace (36.4ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing HelloController#index (for 149.166.139.51 at 2010-04-02 02:02:31) [GET]
+
+NameError (undefined local variable or method `adminAuthenticated' for #<HelloController:0x12be318>):
+  app/controllers/hello_controller.rb:14:in `adminOrUser'
+
+Rendered rescues/_trace (113.7ms)
+Rendered rescues/_request_and_response (0.4ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing HelloController#index (for 149.166.139.51 at 2010-04-02 02:03:05) [GET]
+Rendering template within layouts/application
+Rendering hello/index
+Completed in 3ms (View: 1 | 200 OK [http://149.166.11.215/hello]
+
+
+Processing HelloController#index (for 149.166.139.51 at 2010-04-02 02:04:00) [GET]
+Rendering template within layouts/application
+Rendering hello/index
+Completed in 138ms (View: 136 | 200 OK [http://149.166.11.215/hello]
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-04-02 02:04:17) [GET]
+Rendering template within layouts/application
+Rendering hello/index
+Completed in 8ms (View: 7 | 200 OK [http://localhost/hello]
+
+
+Processing HelloController#index (for 149.166.139.51 at 2010-04-02 02:04:19) [GET]
+Rendering template within layouts/application
+Rendering hello/index
+Completed in 3ms (View: 1 | 200 OK [http://149.166.11.215/hello]
+
+
+Processing HelloController#index (for 149.166.139.51 at 2010-04-02 02:08:55) [GET]
+Rendering template within layouts/application
+Rendering hello/index
+ERROR: compiling _run_erb_app47views47hello47index46html46erb RAISED compile error
+/Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:23: syntax error, unexpected kENSURE, expecting $end
+Function body:           def _run_erb_app47views47hello47index46html46erb(local_assigns)
+            old_output_buffer = output_buffer;;@output_buffer = '';  __in_erb_template=true ; @output_buffer.concat "<h1>"; @output_buffer.concat((h @message ).to_s); @output_buffer.concat " (Hello#index)</h1>\n<p>Find me in app/views/hello/index.html.erb</p>\n\n<ol>\n\t"
+
+
+
+;  for i in 1..@count ; @output_buffer.concat "\n\t\t<li>"
+; @output_buffer.concat((h @bonus ).to_s); @output_buffer.concat "</li>\n\t"
+;  end ; @output_buffer.concat "\n</ol>\n\n<ol>\n\t"
+
+
+
+;  @count.times { ; @output_buffer.concat "\n\t\t<li>"
+; @output_buffer.concat((h @bonus ).to_s); @output_buffer.concat "</li>\n\t"
+;  } ; @output_buffer.concat "\n</ol>\n\n"
+
+
+;  content_for(:list) ; @output_buffer.concat "\n<ol>\n\t"
+
+;  for i in 1..@count ; @output_buffer.concat "\n\t<li>"
+; @output_buffer.concat((h @bonus ).to_s); @output_buffer.concat "</li>\n\t"
+;  end ; @output_buffer.concat "\n</ol>\n"
+
+;  end ; @output_buffer
+          ensure
+            self.output_buffer = old_output_buffer
+          end
+Backtrace: /Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:23:in `compile!'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/renderable.rb:61:in `compile'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/renderable.rb:28:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/template.rb:205:in `render_template'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/base.rb:265:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/base.rb:348:in `_render_with_layout'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/base.rb:262:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1250:in `render_for_file'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:945:in `render_without_benchmark'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:51:in `render'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:51:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1326:in `default_render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1332:in `perform_action_without_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:617:in `call_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/rescue.rb:160:in `perform_action_without_flash'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/flash.rb:146:in `perform_action'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:532:in `send'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:532:in `process_without_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:606:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:391:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:386:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/routing/route_set.rb:437:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:87:in `dispatch'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:121:in `_call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:130:in `build_middleware_stack'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/string_coercion.rb:25:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/string_coercion.rb:25:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/head.rb:9:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/methodoverride.rb:24:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/params_parser.rb:15:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/session/cookie_store.rb:93:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/failsafe.rb:26:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `synchronize'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:114:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/reloader.rb:34:in `run'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:108:in `call'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.5/lib/rails/rack/static.rb:31:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:46:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `each'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `call'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.5/lib/rails/rack/log_tailer.rb:17:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/content_length.rb:13:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/chunked.rb:15:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/handler/mongrel.rb:64:in `process'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/handler/mongrel.rb:34:in `run'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.5/lib/commands/server.rb:111
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+script/server:3
+
+ActionView::TemplateError (compile error
+/Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:23: syntax error, unexpected kENSURE, expecting $end) on line #23 of app/views/hello/index.html.erb:
+20: 	<% end %>
+21: </ol>
+22: <% end %>
+
+    app/views/hello/index.html.erb:23:in `compile!'
+
+Rendered rescues/_trace (47.7ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing HelloController#index (for 149.166.139.51 at 2010-04-02 02:09:26) [GET]
+Rendering template within layouts/application
+Rendering hello/index
+ERROR: compiling _run_erb_app47views47hello47index46html46erb RAISED compile error
+/Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:17: syntax error, unexpected kENSURE, expecting $end
+Function body:           def _run_erb_app47views47hello47index46html46erb(local_assigns)
+            old_output_buffer = output_buffer;;@output_buffer = '';  __in_erb_template=true ; @output_buffer.concat "<h1>"; @output_buffer.concat((h @message ).to_s); @output_buffer.concat " (Hello#index)</h1>\n<p>Find me in app/views/hello/index.html.erb</p>\n\n<ol>\n\t"
+
+
+
+;  @count.times { ; @output_buffer.concat "\n\t\t<li>"
+; @output_buffer.concat((h @bonus ).to_s); @output_buffer.concat "</li>\n\t"
+;  } ; @output_buffer.concat "\n</ol>\n\n"
+
+
+;  content_for(:list) ; @output_buffer.concat "\n<ol>\n\t"
+
+;  for i in 1..@count ; @output_buffer.concat "\n\t<li>"
+; @output_buffer.concat((h @bonus ).to_s); @output_buffer.concat "</li>\n\t"
+;  end ; @output_buffer.concat "\n</ol>\n"
+
+;  end ; @output_buffer
+          ensure
+            self.output_buffer = old_output_buffer
+          end
+Backtrace: /Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:17:in `compile!'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/renderable.rb:61:in `compile'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/renderable.rb:28:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/template.rb:205:in `render_template'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/base.rb:265:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/base.rb:348:in `_render_with_layout'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_view/base.rb:262:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1250:in `render_for_file'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:945:in `render_without_benchmark'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:51:in `render'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:51:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1326:in `default_render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1332:in `perform_action_without_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:617:in `call_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/rescue.rb:160:in `perform_action_without_flash'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/flash.rb:146:in `perform_action'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:532:in `send'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:532:in `process_without_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:606:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:391:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:386:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/routing/route_set.rb:437:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:87:in `dispatch'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:121:in `_call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:130:in `build_middleware_stack'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/string_coercion.rb:25:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/string_coercion.rb:25:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/head.rb:9:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/methodoverride.rb:24:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/params_parser.rb:15:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/session/cookie_store.rb:93:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/failsafe.rb:26:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `synchronize'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:114:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/reloader.rb:34:in `run'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:108:in `call'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.5/lib/rails/rack/static.rb:31:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:46:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `each'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `call'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.5/lib/rails/rack/log_tailer.rb:17:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/content_length.rb:13:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/chunked.rb:15:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/handler/mongrel.rb:64:in `process'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.1/lib/rack/handler/mongrel.rb:34:in `run'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.5/lib/commands/server.rb:111
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+script/server:3
+
+ActionView::TemplateError (compile error
+/Users/patrickproctor/Documents/code/hello/app/views/hello/index.html.erb:17: syntax error, unexpected kENSURE, expecting $end) on line #17 of app/views/hello/index.html.erb:
+14: 	<% end %>
+15: </ol>
+16: <% end %>
+
+    app/views/hello/index.html.erb:17:in `compile!'
+
+Rendered rescues/_trace (122.2ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing HelloController#index (for 149.166.139.51 at 2010-04-02 02:09:48) [GET]
+Rendering template within layouts/application
+Rendering hello/index
+Completed in 9ms (View: 7 | 200 OK [http://149.166.11.215/hello]
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-04-02 02:09:55) [GET]
+Rendering template within layouts/application
+Rendering hello/index
+Completed in 5ms (View: 3 | 200 OK [http://localhost/hello]
+
+
+Processing HelloController#index (for 149.166.139.51 at 2010-04-02 02:10:27) [GET]
+Rendering template within layouts/application
+Rendering hello/index
+Completed in 8ms (View: 7 | 200 OK [http://149.166.11.215/hello]
+
+
+Processing HelloController#index (for 149.166.139.51 at 2010-04-02 02:10:51) [GET]
+Rendering template within layouts/application
+Rendering hello/index
+Completed in 14ms (View: 12 | 200 OK [http://149.166.11.215/hello]
+
+
+Processing HelloController#index (for 149.166.139.51 at 2010-04-02 02:11:05) [GET]
+Rendering template within layouts/application
+Rendering hello/index
+Completed in 8ms (View: 7 | 200 OK [http://149.166.11.215/hello]
+
+
+Processing HelloController#index (for 149.166.139.51 at 2010-04-02 02:11:24) [GET]
+Rendering template within layouts/application
+Rendering hello/index
+Completed in 8ms (View: 7 | 200 OK [http://149.166.11.215/hello]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-02 02:11:43) [GET]
+
+ActionController::RoutingError (No route matches "/posts.atom" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HelloController#index (for 149.166.139.51 at 2010-04-02 02:11:54) [GET]
+Rendering template within layouts/application
+Rendering hello/index
+Completed in 8ms (View: 6 | 200 OK [http://149.166.11.215/hello]
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-04-02 02:12:11) [GET]
+Rendering template within layouts/application
+Rendering hello/index
+Completed in 14ms (View: 12 | 200 OK [http://localhost/hello]
+
+
+Processing HelloController#index (for 149.166.139.51 at 2010-04-02 02:12:13) [GET]
+Rendering template within layouts/application
+Rendering hello/index
+Completed in 3ms (View: 2 | 200 OK [http://149.166.11.215/hello]
+
+
+Processing ApplicationController#index (for 149.166.139.51 at 2010-04-02 02:13:02) [GET]
+
+ActionController::RoutingError (No route matches "/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HelloController#index (for 149.166.139.51 at 2010-04-02 02:13:45) [GET]
+Rendering template within layouts/application
+Rendering hello/index
+Completed in 3ms (View: 1 | 200 OK [http://149.166.11.215/]
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-04-02 02:21:45) [GET]
+Rendering template within layouts/application
+Rendering hello/index
+Completed in 4ms (View: 2 | 200 OK [http://localhost/hello]
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-04-02 02:21:55) [GET]
+Rendering template within layouts/application
+Rendering hello/index
+Completed in 3ms (View: 2 | 200 OK [http://localhost/]
+
+
+Processing HelloController#index (for 149.166.139.51 at 2010-04-02 02:22:22) [GET]
+Rendering template within layouts/application
+Rendering hello/index
+Completed in 3ms (View: 1 | 200 OK [http://149.166.11.215/]
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-04-02 02:22:24) [GET]
+Rendering template within layouts/application
+Rendering hello/index
+Completed in 4ms (View: 2 | 200 OK [http://localhost/]
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-04-02 02:25:02) [GET]
+Rendering template within layouts/application
+Rendering hello/index
+Completed in 5ms (View: 2 | 200 OK [http://localhost/]

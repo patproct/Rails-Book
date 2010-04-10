@@ -1,0 +1,13 @@
+body {
+	font-family: Georgia, "MS Trebuchet", sans-serif;
+}
+h1 {
+	font-family: serif, "MS Trebuchet", sans-serif;
+	font-size: 24pt;
+	font-weight: bold;
+	color:#F00;
+}
+#container {
+	width: 768px;
+	margin: 0 auto 0 auto;
+}

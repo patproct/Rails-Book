@@ -1,0 +1,822 @@
+
+
+Processing EntriesController#index (for 127.0.0.1 at 2010-04-02 02:36:02) [GET]
+
+ActionController::UnknownAction (No action responded to index. Actions: sign_in):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing EntriesController#index (for 127.0.0.1 at 2010-04-02 02:36:18) [GET]
+
+ActionController::UnknownAction (No action responded to index. Actions: sign_in):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing EntriesController#index (for 127.0.0.1 at 2010-04-02 02:36:20) [GET]
+
+ActionController::UnknownAction (No action responded to index. Actions: sign_in):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing EntriesController#sign_in (for 127.0.0.1 at 2010-04-02 02:36:29) [GET]
+Rendering entries/sign_in
+Completed in 112ms (View: 110, DB: 0) | 200 OK [http://localhost/entries/sign_in]
+
+
+Processing EntriesController#sign_in (for 127.0.0.1 at 2010-04-02 02:36:45) [GET]
+Rendering entries/sign_in
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/entries/sign_in]
+
+
+Processing EntriesController#sign_in (for 127.0.0.1 at 2010-04-02 02:36:47) [POST]
+  Parameters: {"commit"=>"Sign in", "authenticity_token"=>"OjZqsz2EFYfqtCVa+0kBEv5JCJqLphyoJoRpHlAimmA=", "visitor_name"=>"Patrick"}
+Rendering entries/sign_in
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing EntriesController#sign_in (for 127.0.0.1 at 2010-04-02 02:37:53) [POST]
+  Parameters: {"commit"=>"Sign in", "authenticity_token"=>"OjZqsz2EFYfqtCVa+0kBEv5JCJqLphyoJoRpHlAimmA=", "visitor_name"=>"Patrick"}
+Rendering entries/sign_in
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing EntriesController#sign_in (for 127.0.0.1 at 2010-04-02 02:37:57) [POST]
+  Parameters: {"commit"=>"Sign in", "authenticity_token"=>"OjZqsz2EFYfqtCVa+0kBEv5JCJqLphyoJoRpHlAimmA=", "visitor_name"=>"John"}
+Rendering entries/sign_in
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing EntriesController#sign_in (for 127.0.0.1 at 2010-04-02 02:38:06) [POST]
+  Parameters: {"commit"=>"Sign in", "authenticity_token"=>"OjZqsz2EFYfqtCVa+0kBEv5JCJqLphyoJoRpHlAimmA=", "visitor_name"=>"Patrick John Proctor"}
+Rendering entries/sign_in
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-02 02:41:49) [GET]
+
+ActionController::RoutingError (No route matches "/posts.atom" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing EntriesController#sign_in (for 149.166.139.51 at 2010-04-02 02:43:51) [GET]
+Rendering entries/sign_in
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://149.166.11.215/]
+
+
+Processing EntriesController#sign_in (for 149.166.139.51 at 2010-04-02 02:44:14) [POST]
+  Parameters: {"commit"=>"Sign in", "authenticity_token"=>"WqKRltqeK8uPfZ5/7HaNBHyQkOAKsGc/kTOIZOa3uVk=", "visitor_name"=>"Arthur Dent"}
+Rendering entries/sign_in
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://149.166.11.215/]
+
+
+Processing EntriesController#sign_in (for 149.166.139.51 at 2010-04-02 02:44:17) [POST]
+  Parameters: {"commit"=>"Sign in", "authenticity_token"=>"WqKRltqeK8uPfZ5/7HaNBHyQkOAKsGc/kTOIZOa3uVk=", "visitor_name"=>"Arthur Dent"}
+Rendering entries/sign_in
+Completed in 5ms (View: 2, DB: 0) | 200 OK [http://149.166.11.215/]
+
+
+Processing EntriesController#sign_in (for 149.166.139.51 at 2010-04-02 02:44:19) [POST]
+  Parameters: {"commit"=>"Sign in", "authenticity_token"=>"WqKRltqeK8uPfZ5/7HaNBHyQkOAKsGc/kTOIZOa3uVk=", "visitor_name"=>"Arthur Dent"}
+Rendering entries/sign_in
+Completed in 5ms (View: 2, DB: 0) | 200 OK [http://149.166.11.215/]
+
+
+Processing EntriesController#sign_in (for 149.166.139.51 at 2010-04-02 02:44:23) [POST]
+  Parameters: {"commit"=>"Sign in", "authenticity_token"=>"WqKRltqeK8uPfZ5/7HaNBHyQkOAKsGc/kTOIZOa3uVk=", "visitor_name"=>"Arthur Dent"}
+Rendering entries/sign_in
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://149.166.11.215/]
+
+
+Processing EntriesController#sign_in (for 149.166.139.51 at 2010-04-02 02:44:31) [POST]
+  Parameters: {"commit"=>"Sign in", "authenticity_token"=>"WqKRltqeK8uPfZ5/7HaNBHyQkOAKsGc/kTOIZOa3uVk=", "visitor_name"=>"Arthur Dent"}
+Rendering entries/sign_in
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://149.166.11.215/]
+
+
+Processing EntriesController#sign_in (for 149.166.139.51 at 2010-04-02 02:44:47) [POST]
+  Parameters: {"commit"=>"Sign in", "authenticity_token"=>"WqKRltqeK8uPfZ5/7HaNBHyQkOAKsGc/kTOIZOa3uVk=", "visitor_name"=>"Arthur Dent"}
+Rendering entries/sign_in
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://149.166.11.215/]
+
+
+Processing EntriesController#sign_in (for 149.166.139.51 at 2010-04-02 02:44:50) [POST]
+  Parameters: {"commit"=>"Sign in", "authenticity_token"=>"WqKRltqeK8uPfZ5/7HaNBHyQkOAKsGc/kTOIZOa3uVk=", "visitor_name"=>"Arthur Dent"}
+Rendering entries/sign_in
+Completed in 5ms (View: 2, DB: 0) | 200 OK [http://149.166.11.215/]
+  [4;36;1mSQL (0.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (4.2ms)[0m   [0;1mCREATE TABLE "schema_migrations" ("version" varchar(255) NOT NULL) [0m
+  [4;35;1mSQL (3.1ms)[0m   [0mCREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT version FROM schema_migrations[0m
+Migrating to CreateEntries (20100402065908)
+  [4;36;1mSQL (0.7ms)[0m   [0;1mCREATE TABLE "entries" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(255), "created_at" datetime, "updated_at" datetime) [0m
+  [4;35;1mSQL (0.2ms)[0m   [0mINSERT INTO schema_migrations (version) VALUES ('20100402065908')[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSELECT version FROM schema_migrations[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mPRAGMA index_list("entries")[0m
+
+
+Processing EntriesController#sign_in (for 127.0.0.1 at 2010-04-02 03:03:22) [POST]
+  Parameters: {"commit"=>"Sign in", "authenticity_token"=>"OjZqsz2EFYfqtCVa+0kBEv5JCJqLphyoJoRpHlAimmA=", "visitor_name"=>"Patrick John Proctor"}
+  [4;36;1mEntry Create (0.7ms)[0m   [0;1mINSERT INTO "entries" ("name", "created_at", "updated_at") VALUES('Patrick John Proctor', '2010-04-02 07:03:22', '2010-04-02 07:03:22')[0m
+Rendering entries/sign_in
+Completed in 43ms (View: 11, DB: 1) | 200 OK [http://localhost/]
+
+
+Processing EntriesController#sign_in (for 127.0.0.1 at 2010-04-02 03:07:18) [POST]
+  Parameters: {"commit"=>"Sign in", "authenticity_token"=>"OjZqsz2EFYfqtCVa+0kBEv5JCJqLphyoJoRpHlAimmA=", "visitor_name"=>"Jean-Luc Picard"}
+  [4;35;1mEntry Create (1.0ms)[0m   [0mINSERT INTO "entries" ("name", "created_at", "updated_at") VALUES('Jean-Luc Picard', '2010-04-02 07:07:18', '2010-04-02 07:07:18')[0m
+Rendering entries/sign_in
+Completed in 18ms (View: 3, DB: 1) | 200 OK [http://localhost/]
+
+
+Processing EntriesController#sign_in (for 127.0.0.1 at 2010-04-02 03:11:36) [GET]
+  [4;36;1mEntry Create (0.6ms)[0m   [0;1mINSERT INTO "entries" ("name", "created_at", "updated_at") VALUES(NULL, '2010-04-02 07:11:36', '2010-04-02 07:11:36')[0m
+Rendering entries/sign_in
+Completed in 18ms (View: 3, DB: 1) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-02 03:11:47) [GET]
+
+ActionController::RoutingError (No route matches "/posts.atom" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing EntriesController#sign_in (for 127.0.0.1 at 2010-04-02 03:12:59) [GET]
+Rendering entries/sign_in
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing EntriesController#sign_in (for 127.0.0.1 at 2010-04-02 03:13:00) [GET]
+Rendering entries/sign_in
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing EntriesController#sign_in (for 127.0.0.1 at 2010-04-02 03:13:00) [GET]
+Rendering entries/sign_in
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing EntriesController#sign_in (for 149.166.139.51 at 2010-04-02 03:15:49) [POST]
+  Parameters: {"commit"=>"Sign in", "authenticity_token"=>"WqKRltqeK8uPfZ5/7HaNBHyQkOAKsGc/kTOIZOa3uVk=", "visitor_name"=>""}
+Rendering entries/sign_in
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://149.166.11.215/]
+
+
+Processing EntriesController#sign_in (for 127.0.0.1 at 2010-04-02 03:19:57) [GET]
+  [4;35;1mEntry Load (33.8ms)[0m   [0mSELECT * FROM "entries" [0m
+Rendering entries/sign_in
+Completed in 50ms (View: 11, DB: 34) | 200 OK [http://localhost/]
+  [4;36;1mEntry Load (0.4ms)[0m   [0;1mSELECT * FROM "entries" WHERE ("entries"."id" = 3) LIMIT 1[0m
+  [4;36;1mEntry Load (0.4ms)[0m   [0;1mSELECT * FROM "entries" WHERE ("entries"."id" = 3) LIMIT 1[0m
+  [4;35;1mEntry Load (0.6ms)[0m   [0mSELECT * FROM "entries" [0m
+  [4;36;1mEntry Load (0.6ms)[0m   [0;1mSELECT * FROM "entries" [0m
+  [4;35;1mEntry Load (0.6ms)[0m   [0mSELECT * FROM "entries" [0m
+  [4;36;1mEntry Load (0.8ms)[0m   [0;1mSELECT * FROM "entries" [0m
+  [4;35;1mEntry Load (0.9ms)[0m   [0mSELECT * FROM "entries" [0m
+  [4;36;1mEntry Load (1.1ms)[0m   [0;1mSELECT * FROM "entries" [0m
+
+
+Processing EntriesController#sign_in (for 127.0.0.1 at 2010-04-02 03:26:10) [GET]
+  [4;36;1mEntry Load (1.1ms)[0m   [0;1mSELECT * FROM "entries" [0m
+Rendering entries/sign_in
+
+ActionView::TemplateError (uninitialized constant ActionView::Base::CompiledTemplates::NULL) on line #19 of app/views/entries/sign_in.html.erb:
+16: 		
+17: 		<ul>
+18: 			<% @entries.each do |entry| %>
+19: 			<% if entry.name != NULL %>
+20: 			<li><%=h entry.name %></li>
+21: 			<% end %>
+22: 			<% end %>
+
+    app/views/entries/sign_in.html.erb:19
+    app/views/entries/sign_in.html.erb:18:in `each'
+    app/views/entries/sign_in.html.erb:18
+
+Rendered rescues/_trace (56.6ms)
+Rendered rescues/_request_and_response (1.7ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing EntriesController#sign_in (for 127.0.0.1 at 2010-04-02 03:26:20) [GET]
+  [4;35;1mEntry Load (0.7ms)[0m   [0mSELECT * FROM "entries" [0m
+Rendering entries/sign_in
+Completed in 16ms (View: 10, DB: 1) | 200 OK [http://localhost/]
+
+
+Processing EntriesController#sign_in (for 127.0.0.1 at 2010-04-02 03:27:03) [GET]
+  [4;36;1mEntry Load (1.1ms)[0m   [0;1mSELECT * FROM "entries" [0m
+Rendering entries/sign_in
+Completed in 17ms (View: 11, DB: 1) | 200 OK [http://localhost/]
+
+
+Processing EntriesController#sign_in (for 149.166.139.51 at 2010-04-02 03:27:20) [POST]
+  Parameters: {"commit"=>"Sign in", "authenticity_token"=>"WqKRltqeK8uPfZ5/7HaNBHyQkOAKsGc/kTOIZOa3uVk=", "visitor_name"=>"Arthur Dent"}
+  [4;35;1mEntry Create (0.5ms)[0m   [0mINSERT INTO "entries" ("name", "created_at", "updated_at") VALUES('Arthur Dent', '2010-04-02 07:27:20', '2010-04-02 07:27:20')[0m
+  [4;36;1mEntry Load (0.5ms)[0m   [0;1mSELECT * FROM "entries" [0m
+Rendering entries/sign_in
+Completed in 22ms (View: 2, DB: 1) | 200 OK [http://149.166.11.215/]
+
+
+Processing EntriesController#sign_in (for 127.0.0.1 at 2010-04-02 03:27:25) [GET]
+  [4;35;1mEntry Load (0.7ms)[0m   [0mSELECT * FROM "entries" [0m
+Rendering entries/sign_in
+Completed in 10ms (View: 4, DB: 1) | 200 OK [http://localhost/]
+
+
+Processing EntriesController#sign_in (for 149.166.139.51 at 2010-04-02 03:28:22) [POST]
+  Parameters: {"commit"=>"Sign in", "authenticity_token"=>"WqKRltqeK8uPfZ5/7HaNBHyQkOAKsGc/kTOIZOa3uVk=", "visitor_name"=>""}
+  [4;36;1mEntry Load (0.8ms)[0m   [0;1mSELECT * FROM "entries" [0m
+Rendering entries/sign_in
+Completed in 10ms (View: 4, DB: 1) | 200 OK [http://149.166.11.215/]
+
+
+Processing EntriesController#sign_in (for 149.166.139.51 at 2010-04-02 03:32:43) [POST]
+  Parameters: {"commit"=>"Sign in", "authenticity_token"=>"WqKRltqeK8uPfZ5/7HaNBHyQkOAKsGc/kTOIZOa3uVk=", "visitor_name"=>""}
+  [4;35;1mEntry Load (0.5ms)[0m   [0mSELECT * FROM "entries" WHERE (name != NULL) [0m
+Rendering entries/sign_in
+Completed in 8ms (View: 2, DB: 0) | 200 OK [http://149.166.11.215/]
+
+
+Processing EntriesController#sign_in (for 149.166.139.51 at 2010-04-02 03:33:37) [POST]
+  Parameters: {"commit"=>"Sign in", "authenticity_token"=>"WqKRltqeK8uPfZ5/7HaNBHyQkOAKsGc/kTOIZOa3uVk=", "visitor_name"=>""}
+
+NameError (uninitialized constant EntriesController::NULL):
+  app/controllers/entries_controller.rb:8:in `sign_in'
+
+Rendered rescues/_trace (131.2ms)
+Rendered rescues/_request_and_response (0.4ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mEntry Load (0.5ms)[0m   [0;1mSELECT * FROM "entries" WHERE (name = NULL) [0m
+  [4;35;1mEntry Load (0.6ms)[0m   [0mSELECT * FROM "entries" WHERE (name != NULL) [0m
+  [4;36;1mEntry Load (0.0ms)[0m   [0;1mSQLite3::SQLException: no such column: true: SELECT * FROM "entries" WHERE (true) [0m
+
+
+Processing EntriesController#sign_in (for 127.0.0.1 at 2010-04-02 03:37:27) [GET]
+  [4;36;1mEntry Load (0.5ms)[0m   [0;1mSELECT * FROM "entries" WHERE (name = NULL) [0m
+Rendering entries/sign_in
+Completed in 9ms (View: 3, DB: 1) | 200 OK [http://localhost/]
+
+
+Processing EntriesController#sign_in (for 127.0.0.1 at 2010-04-02 03:37:28) [GET]
+  [4;35;1mEntry Load (0.5ms)[0m   [0mSELECT * FROM "entries" WHERE (name = NULL) [0m
+Rendering entries/sign_in
+Completed in 9ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing EntriesController#sign_in (for 127.0.0.1 at 2010-04-02 03:37:44) [GET]
+  [4;36;1mEntry Load (0.8ms)[0m   [0;1mSELECT * FROM "entries" [0m
+Rendering entries/sign_in
+Completed in 11ms (View: 5, DB: 1) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.7ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSELECT version FROM schema_migrations[0m
+Migrating to CreateEntries (20100402065908)
+Migrating to CreatePeople (20100403005734)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mselect sqlite_version(*)[0m
+  [4;35;1mSQL (0.7ms)[0m   [0mCREATE TABLE "people" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(255), "created_at" datetime, "updated_at" datetime) [0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mINSERT INTO schema_migrations (version) VALUES ('20100403005734')[0m
+  [4;35;1mSQL (0.4ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT version FROM schema_migrations[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("entries")[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("people")[0m
+
+
+Processing PeopleController#index (for 127.0.0.1 at 2010-04-02 21:00:01) [GET]
+  [4;36;1mPerson Load (0.5ms)[0m   [0;1mSELECT * FROM "people" [0m
+Rendering template within layouts/people
+Rendering people/index
+Completed in 57ms (View: 49, DB: 1) | 200 OK [http://localhost/people]
+
+
+Processing PeopleController#index (for 127.0.0.1 at 2010-04-02 21:00:30) [GET]
+  [4;35;1mPerson Load (0.4ms)[0m   [0mSELECT * FROM "people" [0m
+Rendering template within layouts/people
+Rendering people/index
+Completed in 7ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PeopleController#new (for 127.0.0.1 at 2010-04-02 21:00:37) [GET]
+Rendering template within layouts/people
+Rendering people/new
+Completed in 19ms (View: 13, DB: 0) | 200 OK [http://localhost/people/new]
+
+
+Processing PeopleController#new (for 127.0.0.1 at 2010-04-02 21:00:50) [GET]
+Rendering template within layouts/people
+Rendering people/new
+Completed in 14ms (View: 6, DB: 0) | 200 OK [http://localhost/people/new]
+
+
+Processing PeopleController#create (for 127.0.0.1 at 2010-04-02 21:00:59) [POST]
+  Parameters: {"person"=>{"name"=>"Arthur Dent"}, "commit"=>"Create", "authenticity_token"=>"Z1+Io6tRwBZhr3QnyGmJ0n1SL8oshclhJ8O6osZHMik="}
+  [4;36;1mPerson Create (330.7ms)[0m   [0;1mINSERT INTO "people" ("name", "created_at", "updated_at") VALUES('Arthur Dent', '2010-04-03 01:00:59', '2010-04-03 01:00:59')[0m
+Redirected to http://localhost:3000/people/1
+Completed in 345ms (DB: 331) | 302 Found [http://localhost/people]
+
+
+Processing PeopleController#show (for 127.0.0.1 at 2010-04-02 21:01:00) [GET]
+  Parameters: {"id"=>"1"}
+  [4;35;1mPerson Load (0.2ms)[0m   [0mSELECT * FROM "people" WHERE ("people"."id" = 1) [0m
+Rendering template within layouts/people
+Rendering people/show
+Completed in 91ms (View: 84, DB: 0) | 200 OK [http://localhost/people/1]
+
+
+Processing PeopleController#index (for 127.0.0.1 at 2010-04-02 21:01:29) [GET]
+  [4;36;1mPerson Load (0.6ms)[0m   [0;1mSELECT * FROM "people" [0m
+Rendering template within layouts/people
+Rendering people/index
+Completed in 13ms (View: 7, DB: 1) | 200 OK [http://localhost/people]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-02 21:19:02) [GET]
+
+ActionController::RoutingError (No route matches "/posts.atom" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-02 21:49:02) [GET]
+
+ActionController::RoutingError (No route matches "/posts.atom" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-02 22:19:03) [GET]
+
+ActionController::RoutingError (No route matches "/posts.atom" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing PeopleController#index (for 192.168.0.10 at 2010-04-02 22:32:52) [GET]
+  [4;35;1mPerson Load (0.6ms)[0m   [0mSELECT * FROM "people" [0m
+Rendering template within layouts/people
+Rendering people/index
+Completed in 13ms (View: 7, DB: 1) | 200 OK [http://192.168.0.12/]
+
+
+Processing PeopleController#show (for 192.168.0.10 at 2010-04-02 22:33:04) [GET]
+  Parameters: {"id"=>"1"}
+  [4;36;1mPerson Load (0.2ms)[0m   [0;1mSELECT * FROM "people" WHERE ("people"."id" = 1) [0m
+Rendering template within layouts/people
+Rendering people/show
+Completed in 9ms (View: 3, DB: 0) | 200 OK [http://192.168.0.12/people/1]
+
+
+Processing PeopleController#edit (for 192.168.0.10 at 2010-04-02 22:33:13) [GET]
+  Parameters: {"id"=>"1"}
+  [4;35;1mPerson Load (0.2ms)[0m   [0mSELECT * FROM "people" WHERE ("people"."id" = 1) [0m
+Rendering template within layouts/people
+Rendering people/edit
+Completed in 17ms (View: 11, DB: 0) | 200 OK [http://192.168.0.12/people/1/edit]
+
+
+Processing PeopleController#update (for 192.168.0.10 at 2010-04-02 22:33:17) [PUT]
+  Parameters: {"person"=>{"name"=>"Arthur Dented"}, "commit"=>"Update", "authenticity_token"=>"X7mAZn6Tnthg81hBYl6A6ju4ALrQFu/u2nAmat4cwok=", "id"=>"1"}
+  [4;36;1mPerson Load (0.2ms)[0m   [0;1mSELECT * FROM "people" WHERE ("people"."id" = 1) [0m
+  [4;35;1mPerson Update (0.5ms)[0m   [0mUPDATE "people" SET "updated_at" = '2010-04-03 02:33:17', "name" = 'Arthur Dented' WHERE "id" = 1[0m
+Redirected to http://192.168.0.12:3000/people/1
+Completed in 13ms (DB: 1) | 302 Found [http://192.168.0.12/people/1]
+
+
+Processing PeopleController#show (for 192.168.0.10 at 2010-04-02 22:33:17) [GET]
+  Parameters: {"id"=>"1"}
+  [4;36;1mPerson Load (0.3ms)[0m   [0;1mSELECT * FROM "people" WHERE ("people"."id" = 1) [0m
+Rendering template within layouts/people
+Rendering people/show
+Completed in 9ms (View: 3, DB: 0) | 200 OK [http://192.168.0.12/people/1]
+
+
+Processing PeopleController#index (for 127.0.0.1 at 2010-04-02 22:33:19) [GET]
+  [4;35;1mPerson Load (0.6ms)[0m   [0mSELECT * FROM "people" [0m
+Rendering template within layouts/people
+Rendering people/index
+Completed in 14ms (View: 7, DB: 1) | 200 OK [http://localhost/people]
+
+
+Processing PeopleController#show (for 192.168.0.10 at 2010-04-02 22:33:33) [GET]
+  Parameters: {"id"=>"1"}
+  [4;36;1mPerson Load (0.2ms)[0m   [0;1mSELECT * FROM "people" WHERE ("people"."id" = 1) [0m
+Rendering template within layouts/people
+Rendering people/show
+Completed in 9ms (View: 3, DB: 0) | 200 OK [http://192.168.0.12/people/1]
+
+
+Processing PeopleController#edit (for 192.168.0.10 at 2010-04-02 22:33:36) [GET]
+  Parameters: {"id"=>"1"}
+  [4;35;1mPerson Load (0.3ms)[0m   [0mSELECT * FROM "people" WHERE ("people"."id" = 1) [0m
+Rendering template within layouts/people
+Rendering people/edit
+Completed in 12ms (View: 6, DB: 0) | 200 OK [http://192.168.0.12/people/1/edit]
+
+
+Processing PeopleController#update (for 192.168.0.10 at 2010-04-02 22:33:39) [PUT]
+  Parameters: {"person"=>{"name"=>"Arthur Dent"}, "commit"=>"Update", "authenticity_token"=>"X7mAZn6Tnthg81hBYl6A6ju4ALrQFu/u2nAmat4cwok=", "id"=>"1"}
+  [4;36;1mPerson Load (0.3ms)[0m   [0;1mSELECT * FROM "people" WHERE ("people"."id" = 1) [0m
+  [4;35;1mPerson Update (0.5ms)[0m   [0mUPDATE "people" SET "updated_at" = '2010-04-03 02:33:39', "name" = 'Arthur Dent' WHERE "id" = 1[0m
+Redirected to http://192.168.0.12:3000/people/1
+Completed in 96ms (DB: 1) | 302 Found [http://192.168.0.12/people/1]
+
+
+Processing PeopleController#show (for 192.168.0.10 at 2010-04-02 22:33:39) [GET]
+  Parameters: {"id"=>"1"}
+  [4;36;1mPerson Load (0.2ms)[0m   [0;1mSELECT * FROM "people" WHERE ("people"."id" = 1) [0m
+Rendering template within layouts/people
+Rendering people/show
+Completed in 9ms (View: 3, DB: 0) | 200 OK [http://192.168.0.12/people/1]
+
+
+Processing PeopleController#index (for 192.168.0.10 at 2010-04-02 22:37:51) [GET]
+  [4;35;1mPerson Load (0.6ms)[0m   [0mSELECT * FROM "people" [0m
+Rendering template within layouts/people
+Rendering people/index
+Completed in 13ms (View: 7, DB: 1) | 200 OK [http://192.168.0.12/people]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-02 22:49:05) [GET]
+
+ActionController::RoutingError (No route matches "/posts.atom" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing PeopleController#show (for 192.168.0.10 at 2010-04-02 22:56:50) [GET]
+  Parameters: {"id"=>"1"}
+  [4;36;1mPerson Load (0.2ms)[0m   [0;1mSELECT * FROM "people" WHERE ("people"."id" = 1) [0m
+Rendering template within layouts/people
+Rendering people/show
+Completed in 9ms (View: 3, DB: 0) | 200 OK [http://192.168.0.12/people/1]
+
+
+Processing PeopleController#show (for 192.168.0.10 at 2010-04-02 22:56:54) [GET]
+  Parameters: {"id"=>"index"}
+  [4;35;1mPerson Load (0.1ms)[0m   [0mSELECT * FROM "people" WHERE ("people"."id" = 0) [0m
+
+ActiveRecord::RecordNotFound (Couldn't find Person with ID=index):
+  app/controllers/people_controller.rb:16:in `show'
+
+Rendered rescues/_trace (44.1ms)
+Rendered rescues/_request_and_response (1.7ms)
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 192.168.0.10 at 2010-04-02 22:57:00) [GET]
+
+ActionController::RoutingError (No route matches "/people/index.html.erb" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing PeopleController#index (for 192.168.0.10 at 2010-04-02 22:57:12) [GET]
+  [4;36;1mPerson Load (0.6ms)[0m   [0;1mSELECT * FROM "people" [0m
+Rendering template within layouts/people
+Rendering people/index
+Completed in 12ms (View: 7, DB: 1) | 200 OK [http://192.168.0.12/people/]
+
+
+Processing PeopleController#edit (for 192.168.0.10 at 2010-04-02 22:57:21) [GET]
+  Parameters: {"id"=>"1"}
+  [4;35;1mPerson Load (0.2ms)[0m   [0mSELECT * FROM "people" WHERE ("people"."id" = 1) [0m
+Rendering template within layouts/people
+Rendering people/edit
+Completed in 12ms (View: 6, DB: 0) | 200 OK [http://192.168.0.12/people/1/edit]
+
+
+Processing PeopleController#index (for 192.168.0.10 at 2010-04-02 22:57:24) [GET]
+  [4;36;1mPerson Load (0.7ms)[0m   [0;1mSELECT * FROM "people" [0m
+Rendering template within layouts/people
+Rendering people/index
+Completed in 96ms (View: 7, DB: 1) | 200 OK [http://192.168.0.12/people]
+
+
+Processing PeopleController#index (for 127.0.0.1 at 2010-04-02 23:12:48) [GET]
+  [4;35;1mPerson Load (0.6ms)[0m   [0mSELECT * FROM "people" [0m
+Rendering template within layouts/people
+Rendering people/index
+Completed in 13ms (View: 7, DB: 1) | 200 OK [http://localhost/people]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-02 23:19:07) [GET]
+
+ActionController::RoutingError (No route matches "/posts.atom" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-02 23:49:11) [GET]
+
+ActionController::RoutingError (No route matches "/posts.atom" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-03 00:19:11) [GET]
+
+ActionController::RoutingError (No route matches "/posts.atom" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-03 00:49:14) [GET]
+
+ActionController::RoutingError (No route matches "/posts.atom" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-03 01:19:16) [GET]
+
+ActionController::RoutingError (No route matches "/posts.atom" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-03 01:49:33) [GET]
+
+ActionController::RoutingError (No route matches "/posts.atom" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing PeopleController#index (for 192.168.0.10 at 2010-04-03 02:03:14) [GET]
+  [4;36;1mPerson Load (17.5ms)[0m   [0;1mSELECT * FROM "people" [0m
+Rendering template within layouts/people
+Rendering people/index
+Completed in 33ms (View: 9, DB: 17) | 200 OK [http://192.168.0.12/]
+
+
+Processing PeopleController#new (for 192.168.0.10 at 2010-04-03 02:03:19) [GET]
+Rendering template within layouts/people
+Rendering people/new
+Completed in 10ms (View: 5, DB: 0) | 200 OK [http://192.168.0.12/people/new]
+
+
+Processing PeopleController#create (for 192.168.0.10 at 2010-04-03 02:03:23) [POST]
+  Parameters: {"person"=>{"name"=>"Patrick Proctor"}, "commit"=>"Create", "authenticity_token"=>"dWi2weFIVcyb3oew1ZsEvsouijsvlXgDaMsY5Kw6pRM="}
+  [4;35;1mPerson Create (0.5ms)[0m   [0mINSERT INTO "people" ("name", "created_at", "updated_at") VALUES('Patrick Proctor', '2010-04-03 06:03:23', '2010-04-03 06:03:23')[0m
+Redirected to http://192.168.0.12:3000/people/2
+Completed in 12ms (DB: 1) | 302 Found [http://192.168.0.12/people]
+
+
+Processing PeopleController#show (for 192.168.0.10 at 2010-04-03 02:03:23) [GET]
+  Parameters: {"id"=>"2"}
+  [4;36;1mPerson Load (0.2ms)[0m   [0;1mSELECT * FROM "people" WHERE ("people"."id" = 2) [0m
+Rendering template within layouts/people
+Rendering people/show
+Completed in 9ms (View: 3, DB: 0) | 200 OK [http://192.168.0.12/people/2]
+
+
+Processing PeopleController#index (for 192.168.0.10 at 2010-04-03 02:03:30) [GET]
+  [4;35;1mPerson Load (0.6ms)[0m   [0mSELECT * FROM "people" [0m
+Rendering template within layouts/people
+Rendering people/index
+Completed in 16ms (View: 10, DB: 1) | 200 OK [http://192.168.0.12/people]
+
+
+Processing PeopleController#index (for 149.166.10.196 at 2010-04-05 19:19:10) [GET]
+  [4;36;1mPerson Load (1.4ms)[0m   [0;1mSELECT * FROM "people" [0m
+Rendering template within layouts/people
+Rendering people/index
+Completed in 313ms (View: 304, DB: 1) | 200 OK [http://149.166.8.96/]
+
+
+Processing PeopleController#new (for 149.166.10.196 at 2010-04-05 19:20:48) [GET]
+Rendering template within layouts/people
+Rendering people/new
+Completed in 18ms (View: 11, DB: 0) | 200 OK [http://149.166.8.96/people/new]
+
+
+Processing PeopleController#create (for 149.166.10.196 at 2010-04-05 19:21:58) [POST]
+  Parameters: {"person"=>{"name"=>"Stephen the Goforth"}, "commit"=>"Create", "authenticity_token"=>"DYT9lsCAq5We4xD7E53PheI9kzsD1xI3lYPsY7zKsmQ="}
+  [4;35;1mPerson Create (35.6ms)[0m   [0mINSERT INTO "people" ("name", "created_at", "updated_at") VALUES('Stephen the Goforth', '2010-04-05 23:21:58', '2010-04-05 23:21:58')[0m
+Redirected to http://149.166.8.96:3000/people/3
+Completed in 48ms (DB: 36) | 302 Found [http://149.166.8.96/people]
+
+
+Processing PeopleController#show (for 149.166.10.196 at 2010-04-05 19:21:59) [GET]
+  Parameters: {"id"=>"3"}
+  [4;36;1mPerson Load (0.2ms)[0m   [0;1mSELECT * FROM "people" WHERE ("people"."id" = 3) [0m
+Rendering template within layouts/people
+Rendering people/show
+Completed in 41ms (View: 35, DB: 0) | 200 OK [http://149.166.8.96/people/3]
+
+
+Processing PeopleController#index (for 149.166.10.196 at 2010-04-05 19:22:00) [GET]
+  [4;35;1mPerson Load (0.7ms)[0m   [0mSELECT * FROM "people" [0m
+Rendering template within layouts/people
+Rendering people/index
+Completed in 19ms (View: 14, DB: 1) | 200 OK [http://149.166.8.96/people]
+
+
+Processing PeopleController#index (for 127.0.0.1 at 2010-04-05 19:22:16) [GET]
+  [4;36;1mPerson Load (0.7ms)[0m   [0;1mSELECT * FROM "people" [0m
+Rendering template within layouts/people
+Rendering people/index
+Completed in 20ms (View: 14, DB: 1) | 200 OK [http://localhost/]
+
+
+Processing PeopleController#index (for 127.0.0.1 at 2010-04-05 19:22:20) [GET]
+  [4;35;1mPerson Load (0.7ms)[0m   [0mSELECT * FROM "people" [0m
+Rendering template within layouts/people
+Rendering people/index
+Completed in 20ms (View: 14, DB: 1) | 200 OK [http://localhost/]
+
+
+Processing PeopleController#edit (for 127.0.0.1 at 2010-04-05 19:22:26) [GET]
+  Parameters: {"id"=>"3"}
+  [4;36;1mPerson Load (0.3ms)[0m   [0;1mSELECT * FROM "people" WHERE ("people"."id" = 3) [0m
+Rendering template within layouts/people
+Rendering people/edit
+Completed in 227ms (View: 221, DB: 0) | 200 OK [http://localhost/people/3/edit]
+
+
+Processing PeopleController#new (for 149.166.10.196 at 2010-04-05 19:22:29) [GET]
+Rendering template within layouts/people
+Rendering people/new
+Completed in 11ms (View: 5, DB: 0) | 200 OK [http://149.166.8.96/people/new]
+
+
+Processing PeopleController#update (for 127.0.0.1 at 2010-04-05 19:22:30) [PUT]
+  Parameters: {"person"=>{"name"=>"Stephen teh Goforth"}, "commit"=>"Update", "authenticity_token"=>"Wz+dxUjFGKu8HptVX1lFBrUs7W3+yocmyrRhYl3MDeE=", "id"=>"3"}
+  [4;35;1mPerson Load (0.2ms)[0m   [0mSELECT * FROM "people" WHERE ("people"."id" = 3) [0m
+  [4;36;1mPerson Update (0.5ms)[0m   [0;1mUPDATE "people" SET "updated_at" = '2010-04-05 23:22:30', "name" = 'Stephen teh Goforth' WHERE "id" = 3[0m
+Redirected to http://localhost:3000/people/3
+Completed in 65ms (DB: 1) | 302 Found [http://localhost/people/3]
+
+
+Processing PeopleController#show (for 127.0.0.1 at 2010-04-05 19:22:30) [GET]
+  Parameters: {"id"=>"3"}
+  [4;35;1mPerson Load (0.3ms)[0m   [0mSELECT * FROM "people" WHERE ("people"."id" = 3) [0m
+Rendering template within layouts/people
+Rendering people/show
+Completed in 9ms (View: 3, DB: 0) | 200 OK [http://localhost/people/3]
+
+
+Processing PeopleController#index (for 127.0.0.1 at 2010-04-05 19:22:33) [GET]
+  [4;36;1mPerson Load (0.7ms)[0m   [0;1mSELECT * FROM "people" [0m
+Rendering template within layouts/people
+Rendering people/index
+Completed in 19ms (View: 14, DB: 1) | 200 OK [http://localhost/people]
+
+
+Processing PeopleController#create (for 149.166.10.196 at 2010-04-05 19:22:36) [POST]
+  Parameters: {"person"=>{"name"=>"Palmela Handerson"}, "commit"=>"Create", "authenticity_token"=>"DYT9lsCAq5We4xD7E53PheI9kzsD1xI3lYPsY7zKsmQ="}
+  [4;35;1mPerson Create (0.5ms)[0m   [0mINSERT INTO "people" ("name", "created_at", "updated_at") VALUES('Palmela Handerson', '2010-04-05 23:22:36', '2010-04-05 23:22:36')[0m
+Redirected to http://149.166.8.96:3000/people/4
+Completed in 14ms (DB: 1) | 302 Found [http://149.166.8.96/people]
+
+
+Processing PeopleController#show (for 149.166.10.196 at 2010-04-05 19:22:36) [GET]
+  Parameters: {"id"=>"4"}
+  [4;36;1mPerson Load (0.3ms)[0m   [0;1mSELECT * FROM "people" WHERE ("people"."id" = 4) [0m
+Rendering template within layouts/people
+Rendering people/show
+Completed in 11ms (View: 3, DB: 0) | 200 OK [http://149.166.8.96/people/4]
+
+
+Processing PeopleController#index (for 149.166.10.196 at 2010-04-05 19:22:37) [GET]
+  [4;35;1mPerson Load (0.7ms)[0m   [0mSELECT * FROM "people" [0m
+Rendering template within layouts/people
+Rendering people/index
+Completed in 24ms (View: 18, DB: 1) | 200 OK [http://149.166.8.96/people]
+
+
+Processing PeopleController#index (for 127.0.0.1 at 2010-04-05 19:22:39) [GET]
+  [4;36;1mPerson Load (0.8ms)[0m   [0;1mSELECT * FROM "people" [0m
+Rendering template within layouts/people
+Rendering people/index
+Completed in 24ms (View: 18, DB: 1) | 200 OK [http://localhost/people]
+
+
+Processing PeopleController#index (for 149.166.10.196 at 2010-04-05 19:24:10) [GET]
+  [4;35;1mPerson Load (0.7ms)[0m   [0mSELECT * FROM "people" [0m
+Rendering template within layouts/people
+Rendering people/index
+Completed in 23ms (View: 17, DB: 1) | 200 OK [http://149.166.8.96/people]
+
+
+Processing PeopleController#edit (for 127.0.0.1 at 2010-04-05 19:24:32) [GET]
+  Parameters: {"id"=>"3"}
+  [4;36;1mPerson Load (0.2ms)[0m   [0;1mSELECT * FROM "people" WHERE ("people"."id" = 3) [0m
+Rendering template within layouts/people
+Rendering people/edit
+Completed in 11ms (View: 5, DB: 0) | 200 OK [http://localhost/people/3/edit]
+
+
+Processing PeopleController#index (for 127.0.0.1 at 2010-04-05 19:24:34) [GET]
+  [4;35;1mPerson Load (0.8ms)[0m   [0mSELECT * FROM "people" [0m
+Rendering template within layouts/people
+Rendering people/index
+Completed in 23ms (View: 17, DB: 1) | 200 OK [http://localhost/people]
+  [4;36;1mPerson Load (0.4ms)[0m   [0;1mSELECT * FROM "people" WHERE ("people"."id" = 1) LIMIT 1[0m
+  [4;35;1mPerson Load (0.7ms)[0m   [0mSELECT * FROM "people" [0m
+  [4;36;1mPerson Load (0.8ms)[0m   [0;1mSELECT * FROM "people" [0m
+  [4;35;1mPerson Load (0.8ms)[0m   [0mSELECT * FROM "people" WHERE ("people"."id" = 3) LIMIT 1[0m
+  [4;36;1mPerson Load (0.6ms)[0m   [0;1mSELECT * FROM "people" WHERE ("people"."id" = 3) LIMIT 1[0m
+  [4;35;1mPerson Load (0.8ms)[0m   [0mSELECT * FROM "people" WHERE ("people"."id" = 3) LIMIT 1[0m
+  [4;36;1mPerson Load (0.8ms)[0m   [0;1mSELECT * FROM "people" WHERE ("people"."id" = 3) LIMIT 1[0m
+  [4;35;1mPerson Load (0.7ms)[0m   [0mSELECT * FROM "people" WHERE ("people"."id" = 3) LIMIT 1[0m
+
+
+Processing PeopleController#index (for 127.0.0.1 at 2010-04-05 19:26:46) [GET]
+  [4;36;1mPerson Load (0.8ms)[0m   [0;1mSELECT * FROM "people" [0m
+Rendering template within layouts/people
+Rendering people/index
+Completed in 23ms (View: 17, DB: 1) | 200 OK [http://localhost/people]
+
+
+Processing PeopleController#index (for 127.0.0.1 at 2010-04-05 19:26:47) [GET]
+  [4;35;1mPerson Load (0.8ms)[0m   [0mSELECT * FROM "people" [0m
+Rendering template within layouts/people
+Rendering people/index
+Completed in 122ms (View: 29, DB: 1) | 200 OK [http://localhost/people]
+  [4;36;1mPerson Load (0.9ms)[0m   [0;1mSELECT * FROM "people" WHERE ("people"."id" = 3) LIMIT 1[0m
+  [4;35;1mPerson Load (0.4ms)[0m   [0mSELECT * FROM "people" WHERE ("people"."id" = 3) LIMIT 1[0m
+  [4;36;1mPerson Load (0.7ms)[0m   [0;1mSELECT * FROM "people" WHERE ("people"."id" = 3) LIMIT 1[0m
+  [4;35;1mPerson Load (0.7ms)[0m   [0mSELECT * FROM "people" WHERE ("people"."id" = 3) LIMIT 1[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-05 19:36:27) [GET]
+
+ActionController::RoutingError (No route matches "/posts.atom" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing PeopleController#index (for 127.0.0.1 at 2010-04-05 20:02:17) [GET]
+  [4;36;1mPerson Load (0.7ms)[0m   [0;1mSELECT * FROM "people" [0m
+Rendering template within layouts/people
+Rendering people/index
+Completed in 43ms (View: 37, DB: 1) | 200 OK [http://localhost/people]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-05 20:06:29) [GET]
+
+ActionController::RoutingError (No route matches "/posts.atom" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing PeopleController#index (for 127.0.0.1 at 2010-04-05 20:29:45) [GET]
+  [4;35;1mPerson Load (0.9ms)[0m   [0mSELECT * FROM "people" [0m
+Rendering template within layouts/people
+Rendering people/index
+Completed in 40ms (View: 33, DB: 1) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-05 20:36:32) [GET]
+
+ActionController::RoutingError (No route matches "/posts.atom" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)

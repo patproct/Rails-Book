@@ -1,0 +1,25 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+	<head>
+		<title>Hello <%=h @name %></title>
+	</head>
+	<body>
+		<h1>Hello <%=h @name %>!</h1>
+		
+		<% form_tag(:action => "sign_in") do %>
+		  <p>Enter your name:
+			<%= text_field_tag 'visitor_name', @name %></p>
+			
+			<%= submit_tag 'Sign in' %>
+		<% end -%>
+		
+		<ul>
+			<% @entries.each do |entry| %>
+			<% if !entry.name.blank? %>
+			<li><%=h entry.name %></li>
+			<% end %>
+			<% end %>
+		</ul>
+	</body>
+</html>
