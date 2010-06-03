@@ -2,6 +2,9 @@
   <b>Name:</b>
   <%=h @person.name %>
 </p>
+<p>
+	Created <%=h time_ago_in_words(@person.created_at) %> ago
+</p>
 
 
 <%= link_to 'Edit', edit_person_path(@person) %> |
