@@ -3,9 +3,20 @@
   <%=h @person.name %>
 </p>
 <p>
-	Created <%=h time_ago_in_words(@person.created_at) %> ago
+	<b>Created</b> <%=h time_ago_in_words(@person.created_at) %> ago<br />
+	<b>Last updated</b> <%=h time_ago_in_words(@person.updated_at) %> ago
 </p>
 
-
+<p>
 <%= link_to 'Edit', edit_person_path(@person) %> |
-<%= link_to 'Back', people_path %>
+<%= link_to 'Back', root_path %>
+</p>
+
+<p>
+	<% if @person.id > 1 %>
+		<%= link_to '&larr; Previous person', person_path(@person.id - 1) %>
+	<% end %>
+	<% if @person.id < Person.count %>
+		<%= link_to 'Next person &rarr;', person_path(@person.id + 1) %>
+	<% end %>
+</p>

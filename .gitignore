@@ -1,0 +1,6 @@
+.DS_Store
+*~
+*.swp
+tmp/**/*
+guestbook/log/*
+guestbook/db/development.sqlite3
