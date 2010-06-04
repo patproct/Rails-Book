@@ -1,0 +1,53 @@
+<% nations = {'United States of America' => 'USA', 'Canada' => 'Canada', 'France' => 'France', 'United Kingdom' => 'UK'} %>
+
+<% form_for(@person) do |f| %>
+  <%= f.error_messages %>
+
+  <p>
+    <%= f.label :name, 'Your name' %><br />
+    <%= f.text_field :name %>
+  </p>
+  <p>
+    <%= f.label :secret %><br />
+    <%= f.password_field :secret %>
+  </p>
+  <p>
+    <%= f.label :country %><br />
+		<%= buttons(:person, :country, nations) %>
+  </p>
+  <p>
+    <%= f.label :email %><br />
+    <%= f.text_field :email %>
+  </p>
+  <p>
+    <%= f.label :description %><br />
+    <%= f.text_area :description, :cols => 30, :rows => 10 %>
+  </p>
+  <p>
+    <%= f.label :can_send_email %><br />
+    <%= f.check_box :can_send_email, :class => 'email' %>
+  </p>
+  <p>
+    <%= f.label :graduation_year %><br />
+    <%= f.text_field :graduation_year %>
+  </p>
+  <p>
+    <%= f.label :body_temperature %><br />
+    <%= f.text_field :body_temperature %>
+  </p>
+  <p>
+    <%= f.label :price %><br />
+    <%= f.text_field :price %>
+  </p>
+  <p>
+    <%= f.label :birthday %><br />
+    <%= f.date_select :birthday %>
+  </p>
+  <p>
+    <%= f.label :favorite_time %><br />
+    <%= f.datetime_select :favorite_time, :include_blank => true, :order => [:month, :day, :year], :start_year => 1986, :end_year => 2016 %>
+  </p>
+  <p>
+    <%= f.submit 'Create' %>
+  </p>
+<% end %>

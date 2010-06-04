@@ -1,0 +1,58 @@
+<p>
+  <b>Name:</b>
+  <%=h @person.name %>
+</p>
+
+<!-- <p>
+  <b>Secret:</b>
+  <%=h @person.secret %>
+</p> -->
+
+<p>
+  <b>Country:</b>
+  <%=h @person.country %>
+</p>
+
+<p>
+  <b>Email:</b>
+  <%=h @person.email %>
+</p>
+
+<p>
+  <b>Description:</b>
+  <%=h @person.description %>
+</p>
+
+<p>
+  <b>Can send email:</b>
+  <%=h @person.can_send_email %>
+</p>
+
+<p>
+  <b>Graduation year:</b>
+  <%=h @person.graduation_year %>
+</p>
+
+<p>
+  <b>Body temperature:</b>
+  <%=h @person.body_temperature %>
+</p>
+
+<p>
+  <b>Price:</b>
+  <%=h @person.price %>
+</p>
+
+<p>
+  <b>Birthday:</b>
+  <%=h @person.birthday %>
+</p>
+
+<p>
+  <b>Favorite time:</b>
+  <%=h @person.favorite_time %>
+</p>
+
+
+<%= link_to 'Edit', edit_person_path(@person) %> |
+<%= link_to 'Back', people_path %>
