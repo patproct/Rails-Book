@@ -43,11 +43,11 @@ class PeopleController < ApplicationController
     @person = Person.new(params[:person])
 
     respond_to do |format|
-      if @person.save
+      if @person.save # If the record was successfully save to the DB
         flash[:notice] = 'Person was successfully created.'
         format.html { redirect_to(@person) }
         format.xml  { render :xml => @person, :status => :created, :location => @person }
-      else
+      else # If the record failed to be saved to the DB
         format.html { render :action => "new" }
         format.xml  { render :xml => @person.errors, :status => :unprocessable_entity }
       end
