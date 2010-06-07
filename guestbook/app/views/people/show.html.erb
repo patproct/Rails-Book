@@ -3,7 +3,7 @@
   <%=h @person.name %>
 </p>
 <p>
-	<b>Created</b> <%=h time_ago_in_words(@person.created_at) %> ago<br />
+	<b>Created</b> <%=h time_ago_in_words(@person.created_at) %> ago<!-- on <%=h @person.created_at.to_date %>--><br />
 	<b>Last updated</b> <%=h time_ago_in_words(@person.updated_at) %> ago
 </p>
 
@@ -14,10 +14,16 @@
 </p>
 
 <p>
-	<% if @person.id > 1 %>
-		<%= link_to '&larr; Previous person', person_path(@person.id - 1) %>
+	<% if @previous_person %>
+		<%= link_to '&larr; Previous person', person_path(@previous_person) %>
+	<% else %>
+	   <%= "<b>First record</b>" %>
 	<% end %>
-	<% if @person.id < Person.count %>
-		<%= link_to 'Next person &rarr;', person_path(@person.id + 1) %>
+	<!-- <br /> -->&nbsp;|&nbsp;
+	<% if @next_person %>
+	   <%= link_to 'Next person &rarr;', person_path(@next_person) %>
+	<% else %>
+	   <%= "<b>Last record</b>" %>
 	<% end %>
 </p>
+

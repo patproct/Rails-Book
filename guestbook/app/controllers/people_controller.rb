@@ -14,6 +14,8 @@ class PeopleController < ApplicationController
   # GET /people/1.xml
   def show
     @person = Person.find(params[:id])
+    @previous_person = @person.previous
+    @next_person = @person.next #might be nil if @person is the last group in the table
 
     respond_to do |format|
       format.html # show.html.erb
