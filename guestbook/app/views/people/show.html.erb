@@ -17,13 +17,13 @@
 	<% if @previous_person %>
 		<%= link_to '&larr; Previous person', person_path(@previous_person) %>
 	<% else %>
-	   <%= "<b>First record</b>" %>
+	   <b>First record</b>
 	<% end %>
 	<!-- <br /> -->&nbsp;|&nbsp;
 	<% if @next_person %>
 	   <%= link_to 'Next person &rarr;', person_path(@next_person) %>
 	<% else %>
-	   <%= "<b>Last record</b>" %>
+	   <b>Last record</b>
 	<% end %>
 </p>
 
